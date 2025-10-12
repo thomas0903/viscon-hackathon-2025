@@ -1,0 +1,54 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    environment:
+      USE_MOCK_AUTHENTICATION: true # Set to `true` to enable mock authentication
+      ENABLE_DB_DEBUG_ROUTES: true
+      AUTO_SEED: "true"
+      AUTO_SCRAPE_EVENTS: "true"  # Scrape VIS/AMIV on startup and write seed JSON + posters
+    expose:
+      - 8000
+    ports:
+      - 8000:8000
+    labels:
+      traefik.enable: true
+      traefik.http.routers.backend.entrypoints: web
+      traefik.http.routers.backend.rule: "PathPrefix(`/api`) || PathPrefix(`/uploads`)"
+      traefik.http.services.backend.loadbalancer.server.port: 8000
+    restart: unless-stopped
+    volumes:
+      - backend_db:/app/var/data
+      - backend_uploads:/app/var/uploads
+      - ./backend/db/seed_data:/app/db/seed_data:ro
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    expose:
+      - 80
+    labels:
+      traefik.enable: true
+      traefik.http.routers.frontend.entrypoints: web
+      traefik.http.routers.frontend.rule: PathPrefix(`/`)
+      traefik.http.services.frontend.loadbalancer.server.port: 80
+    restart: unless-stopped
+
+  traefik:
+    image: traefik
+    command:
+      - --providers.docker=true
+      - --entrypoints.web.address=:8080
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    ports:
+      - 8080:8080
+    restart: unless-stopped
+
+volumes:
+  backend_db:
+  backend_uploads:

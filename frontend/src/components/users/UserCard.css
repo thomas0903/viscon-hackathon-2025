@@ -1,0 +1,75 @@
+/* ===== Simplified Friend Card (Bright, Small, Horizontal) ===== */
+.friend-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 8px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.18); /* brighter */
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  box-shadow: 0 2px 12px rgba(2, 6, 23, 0.16), inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+  cursor: pointer;
+  transition: background-color 220ms cubic-bezier(.22,.61,.36,1), border-color 220ms cubic-bezier(.22,.61,.36,1), box-shadow 220ms cubic-bezier(.22,.61,.36,1), transform 220ms cubic-bezier(.22,.61,.36,1);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.friend-card:hover {
+  transform: translateY(-1px);
+  background: rgba(255, 255, 255, 0.26);
+  box-shadow: 0 10px 24px rgba(2, 6, 23, 0.22), inset 0 0 0 1px rgba(255, 255, 255, 0.10);
+}
+.friend-card:active { transform: translateY(0); }
+
+/* Avatar (left) */
+.friend-photo { width: 36px; height: 36px; border-radius: 50%; object-fit: cover; border: 1px solid rgba(203, 213, 225, 0.5); background: rgba(15, 23, 42, 0.25); }
+.friend-photo--sm { width: 36px; height: 36px; }
+
+/* Content (horizontal) */
+.friend-content { flex: 1; min-width: 0; }
+
+.friend-inline { display: flex; align-items: baseline; gap: 6px; min-width: 0; }
+
+.friend-name { font-weight: 600; color: #0b1220; background: rgba(255,255,255,0.7); padding: 1px 6px; border-radius: 6px; font-size: 0.98rem; }
+
+.friend-sep { opacity: 0.55; color: #334155; }
+
+.friend-description { color: #334155; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; opacity: 0.9; }
+
+/* Remove button (styled) */
+.friend-remove {
+  width: 30px;
+  height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border: 1px solid #fda4af; /* rose-300 */
+  background: #fecdd3; /* rose-200 */
+  color: #7f1d1d; /* rose-900 */
+  font-weight: 800;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+.friend-remove:hover {
+  background: #fda4af; /* rose-300 */
+  box-shadow: 0 6px 16px rgba(127, 29, 29, 0.18);
+  transform: translateY(-1px);
+}
+.friend-remove:active {
+  transform: translateY(0);
+}
+.friend-remove:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(253, 164, 175, 0.45);
+}
+
+/* Friends list grid */
+.friends-list { display: grid; grid-template-columns: 1fr; gap: 8px; }
+
+@media (max-width: 420px) {
+  .friend-card { gap: 10px; padding: 8px; }
+  .friend-photo--sm { width: 32px; height: 32px; }
+  .friend-name { font-size: 0.9rem; }
+}

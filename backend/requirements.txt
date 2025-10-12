@@ -1,0 +1,23 @@
+fastapi==0.116.1
+pydantic==2.11.7
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+litellm==1.77.1
+
+# Database stack
+SQLAlchemy==2.0.34
+alembic==1.13.2
+aiosqlite==0.20.0
+# greenlet is optional; needed for async DB on Python < 3.13
+greenlet>=3.0.3; python_version < "3.13"
+
+# Uploads (multipart parsing)
+python-multipart==0.0.9
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+python-dateutil>=2.9.0
+markdownify>=0.14.1
+networkx>=3.3
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+faker

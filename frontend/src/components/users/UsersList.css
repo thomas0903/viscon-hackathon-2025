@@ -1,0 +1,7 @@
+/* Styles for the UsersList component */
+.users-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;             /* vertical spacing between cards */
+  padding-bottom: 16px;  /* breathing room at bottom */
+}

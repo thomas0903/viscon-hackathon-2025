@@ -1,0 +1,195 @@
+
+
+/* ===== Events Header ===== */
+.events-header {
+  display: grid;
+  gap: 14px;
+  padding: 1rem;
+  margin-top: 1rem;
+  background: transparent; /* let the page bg/nav shine through */
+}
+
+/* Top row: title + actions */
+.events-header__row {
+  height: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.events-title-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.events-title {
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  font-weight: 800;
+  color: var(--color-text); /* dark in light mode, light in dark mode */
+}
+
+/* In dark mode, if you want a stronger contrast you can force pure white */
+.dark .events-title {
+  color: #ffffff;
+}
+
+.events-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.75rem;
+  height: 1.75rem;
+  padding: 0 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  border-radius: 9999px;
+  color: #1e3a8a;        /* indigo-900 */
+  background: #e0e7ff;   /* indigo-100 */
+  border: 1px solid #c7d2fe; /* indigo-200 */
+}
+
+.events-actions { display: inline-flex; align-items: center; gap: 8px; }
+
+/* ===== Controls bar (search + filters) ===== */
+.events-controls {
+  display: grid;
+  margin-top: 20px;
+  grid-template-columns: 1fr auto auto auto; /* search grows; 3 filters are auto */
+  gap: 10px;
+  align-items: center;
+  grid-auto-rows: minmax(44px, auto);
+}
+
+/* Generic control wrapper used by filters */
+.events-control {
+  display: grid;
+  align-items: center; /* vertically center single field without label text shifting layout */
+}
+
+/* Inline helper text above each filter (does not change layout height) */
+.events-control--with-hint { position: relative; }
+
+.events-control__hint {
+  position: absolute;
+  bottom: 100%;            /* place just above the field */
+  left: 0;
+  margin-bottom: 6px;      /* gap between hint and field */
+  font-size: 0.8rem;
+  line-height: 1.2;
+  color: var(--color-text-muted);
+  white-space: nowrap;     /* keep short and tidy */
+  pointer-events: none;    /* ignore clicks */
+}
+
+/* Search */
+.events-search { position: relative; }
+.events-search__icon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  opacity: 0.85;
+  pointer-events: none;
+}
+.events-search__input {
+  width: 100%;
+  padding: 0.65rem 0.9rem 0.65rem 2.8rem;
+  font-size: 0.95rem;
+  border-radius: 12px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  outline: none;
+  transition: box-shadow 180ms ease, border-color 180ms ease, background-color 180ms ease;
+}
+.events-search__input::placeholder { color: var(--color-text-muted); }
+.events-search__input:focus-visible {
+  border-color: var(--color-accent-strong);
+  box-shadow: 0 0 0 3px var(--color-ring);
+  background: var(--color-surface);
+}
+
+/* Filters */
+.events-filter { display: grid; gap: 6px; }
+.events-filter__label { font-size: 0.85rem; color: #475569; }
+
+.events-filter__input,
+.events-filter__select {
+  min-width: 160px;
+  padding: 0.65rem 0.9rem;   /* match search field height */
+  border-radius: 12px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  outline: none;
+  font-size: 0.95rem;
+  transition: box-shadow 160ms ease, border-color 160ms ease, background-color 160ms ease;
+}
+
+.events-filter__input:focus-visible,
+.events-filter__select:focus-visible {
+  border-color: var(--color-accent-strong);
+  box-shadow: 0 0 0 3px var(--color-ring);
+  background: var(--color-surface);
+}
+
+/* Hover state for all controls */
+.events-control__field:hover,
+.events-filter__input:hover,
+.events-filter__select:hover { border-color: var(--color-border-strong); }
+
+/* Unify native select look with inputs */
+.events-filter__select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  padding-right: 2.2rem; /* room for caret */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20' fill='none'%3E%3Cpath d='M6 8l4 4 4-4' stroke='%235b6472' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 16px 16px;
+}
+
+/* Buttons (shared with other headers) */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  appearance: none;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  padding: 0.55rem 0.9rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: transform 130ms ease, box-shadow 130ms ease, background-color 130ms ease, border-color 130ms ease;
+}
+.btn__icon { line-height: 1; }
+.btn__label { line-height: 1; }
+
+.btn--primary { color: #ffffff; background: #6366f1; border-color: #4f46e5; }
+.btn--primary:hover { transform: translateY(-1px); box-shadow: 0 6px 16px rgba(79,70,229,0.22); }
+.btn--primary:active { transform: translateY(0); }
+
+.btn--ghost { color: #0f172a; background: #ffffff; border-color: #e2e8f0; }
+.btn--ghost:hover { background: #f8fafc; }
+
+/* A11y */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+/* ===== Responsive ===== */
+@media (max-width: 960px) {
+  .events-controls { grid-template-columns: 1fr 1fr; }
+  .events-filter { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 640px) {
+  .events-header { padding: 12px; gap: 10px; }
+  .events-header__row { align-items: flex-start; }
+  .events-controls { grid-template-columns: 1fr; }
+  .events-filter__input, .events-filter__select { min-width: 0; }
+}

@@ -1,0 +1,179 @@
+.event-page {
+  min-height: 100svh;
+  color: var(--color-text);
+  display: grid;
+  place-items: start center;
+  padding: clamp(16px, 3vw, 32px);
+}
+
+.event-page article {
+  width: min(960px, 100%);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 24px 60px var(--color-card-shadow);
+}
+
+/* ===== Hero (first div inside article) ===== */
+.event-page article > div:first-child {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 6;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+}
+.event-page article > div:first-child img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ===== Header ===== */
+.event-page header {
+  padding: 24px clamp(20px, 3vw, 36px) 14px;
+}
+
+.event-header {
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: space-between; 
+  /* align-items: center; */
+  gap: 16px;
+  padding: 24px clamp(20px, 3vw, 36px) 14px;
+}
+
+.event-header > button {
+  padding: 10px 18px;
+  margin-bottom: 10px;
+  display: flex;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  background-color: var(--color-accent, #3b82f6);
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.25s ease, transform 0.15s ease, opacity 0.2s ease;
+}
+
+.event-header > button:hover:not(:disabled) {
+  background-color: var(--color-accent-hover, #2563eb);
+  transform: translateY(-1px);
+}
+
+.event-header > button:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.event-header > button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* Leave button variant: neutral grey background with red text/border */
+.event-header > button.event-cta--leave {
+  background: var(--color-muted-bg);
+  color: var(--color-navbar-danger);
+  border: 1px solid var(--color-navbar-danger);
+}
+
+.event-header > button.event-cta--leave:hover:not(:disabled) {
+  background: var(--color-navbar-danger-bg);
+  transform: translateY(-1px);
+}
+
+
+.event-page header h1 {
+  font-size: clamp(1.7rem, 3vw, 2.4rem);
+  line-height: 1.15;
+  margin: 0 0 12px 0;
+  color: var(--color-text);
+}
+/* Meta block (the first div in header) on separate lines */
+.event-page header > div {
+  display: flex;
+  flex-direction: column;  /* force each item to its own line */
+  align-items: flex-start;
+  gap: 6px;
+  padding: 6px 0 10px;
+  color: var(--color-text-muted);
+}
+.event-page header > div > span { display: block; width: 100%; }
+.event-page header time,
+.event-page header > div span span { font-weight: 600; color: var(--color-text); }
+
+.event-page header > p {
+  margin: 12px 0 0 0;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}
+
+/* ===== Sections (markdown, attendees, etc.) ===== */
+.event-page section {
+  padding: 18px clamp(20px, 3vw, 36px) 28px;
+  border-top: 1px solid var(--color-border);
+  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.03));
+}
+.event-page section h2 {
+  margin: 0 0 1rem 0;
+  font-size: clamp(1.2rem, 2.4vw, 1.6rem);
+}
+
+/* Generic markdown element polish */
+.event-page section p { margin: 0.75em 0; line-height: 1.65; }
+.event-page section ul,
+.event-page section ol { padding-left: 1.25rem; margin: 0.5em 0 0.75em; }
+.event-page section code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; background: var(--color-muted-bg); padding: 0.2em 0.4em; border-radius: 0.4rem; border: 1px solid var(--color-border); }
+.event-page section pre { background: var(--color-muted-bg); border: 1px solid var(--color-border); padding: 12px; border-radius: 12px; overflow: auto; }
+.event-page section a { color: var(--color-accent); text-underline-offset: 3px; }
+.event-page section blockquote { border-left: 3px solid var(--color-border); padding-left: 12px; margin: 0.75em 0; color: var(--color-text-muted); }
+.event-page section hr { border: none; border-top: 1px solid var(--color-border); margin: 1.25em 0; }
+
+/* Fallback panel (used by router state fallback) */
+.event-fallback {
+  width: min(520px, 100%);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  padding: clamp(24px, 3vw, 40px);
+  border-radius: 20px;
+  box-shadow: 0 16px 40px var(--color-card-shadow);
+  text-align: center;
+}
+.event-fallback__cta {
+  display: inline-flex;
+  margin-top: 18px;
+  padding: 10px 18px;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-accent);
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 140ms ease, box-shadow 160ms ease;
+}
+.event-fallback__cta:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px var(--color-card-shadow);
+}
+
+/* A11y helper */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+@media (max-width: 640px) {
+  .event-page { padding: 16px; }
+  .event-page section { padding: 16px 20px 24px; }
+}

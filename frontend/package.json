@@ -1,0 +1,38 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@xyflow/react": "^12.8.6",
+    "d3-force": "^3.0.0",
+    "framer-motion": "^12.23.24",
+    "react": "^19.1.1",
+    "react-custom-roulette-r19": "^2.0.3",
+    "react-dom": "^19.1.1",
+    "react-force-graph-2d": "^1.25.1",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.9.4",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@dagrejs/dagre": "^1.1.5",
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "typescript": "~5.8.3",
+    "typescript-eslint": "^8.39.1",
+    "vite": "^7.1.2"
+  }
+}

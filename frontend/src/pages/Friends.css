@@ -1,0 +1,37 @@
+.friends-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 120px); /* adjust offset to your navbar/header height */
+  overflow: hidden;
+}
+
+.friends-scroll-container {
+  flex: 1;               /* fill remaining space */
+  overflow-y: auto;      /* only this area scrolls */
+  padding-right: 8px;    /* room for scrollbar */
+}
+
+.add-friend-button {
+  background-color: #61dafb;
+  color: #282c34;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.2s;
+  margin: 20px 0px 20px 0px;
+}
+
+.add-friend-button:hover {
+  background-color: #4fa8d5;
+}
+
+/* Tomato toggle (centered, subtle, matching site button styles) */
+.tomato-toggle-wrap { display: flex; justify-content: center; margin: 10px 0 4px; }
+.tomato-toggle-btn { font-size: 0.95rem; }

@@ -1,0 +1,143 @@
+
+
+/* Container */
+.friends-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.25rem 0;
+}
+
+/* First row: title + count + button */
+.friends-header__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+/* Title + count wrap */
+.friends-title-wrap {
+  display: inline-flex;
+  align-items: center; /* align badge with title on same line */
+  gap: 0.75rem;
+}
+
+.friends-title {
+  margin: 0;
+  font-size: 1.875rem; /* ~30px */
+  line-height: 1.2;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.friends-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.5rem;
+  height: 1.5rem;
+  padding: 0 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  border-radius: 9999px;
+  color: var(--color-accent);
+  background: var(--color-muted-bg);
+  border: 1px solid var(--color-border);
+}
+
+/* Search bar */
+.friends-search {
+  position: relative;
+  max-width: 560px;
+}
+
+.friends-search__icon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.friends-search__input {
+  width: 100%;
+  padding: 0.65rem 0.9rem 0.65rem 3rem; /* left padding for icon */
+  border-radius: 12px;
+  border: 1px solid var(--color-border);
+  font-size: 16px;
+  background: var(--color-surface);
+  color: var(--color-text);
+  outline: none;
+  transition: box-shadow 180ms ease, border-color 180ms ease, background-color 180ms ease;
+}
+
+.friends-search__input::placeholder { color: var(--color-text-muted); }
+
+.friends-search__input:focus-visible {
+  border-color: var(--color-accent-strong);
+  box-shadow: 0 0 0 3px var(--color-ring);
+  background: var(--color-surface);
+}
+
+/* Button base */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  appearance: none;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  padding: 0.55rem 0.9rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: transform 130ms ease, box-shadow 130ms ease, background-color 130ms ease, border-color 130ms ease;
+}
+
+.btn__icon { line-height: 1; }
+.btn__label { line-height: 1; }
+
+/* Primary button variant */
+.btn--primary {
+  /* Ensure label is readable on accent background in both themes */
+  color: #ffffff;
+  background: var(--color-accent);
+  border-color: var(--color-accent-strong);
+}
+.btn--primary:hover { transform: translateY(-1px); box-shadow: 0 8px 22px var(--color-card-shadow); }
+.btn--primary:active { transform: translateY(0); }
+
+/* Specific hook for this button */
+.add-friend-button { /* inherits .btn + .btn--primary */ }
+
+/* Screen-reader only utility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 1px, 1px);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Responsive tweaks */
+@media (max-width: 640px) {
+  .friends-header__row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .add-friend-button {
+    width: 100%;
+  }
+
+  .friends-search__input {
+    max-width: 100%;
+  }
+}

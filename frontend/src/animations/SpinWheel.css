@@ -1,0 +1,88 @@
+/* Wrapper */
+.wheel {
+  position: relative;
+  width: 160px;
+  height: 160px;
+  user-select: none;
+  /* -webkit-user-drag: none; */
+  --wheel-duration: 6s;
+  --wheel-timing: linear;
+}
+
+
+
+.wheel--fixed {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 999; /* adjust if needed */
+  /* border-radius: 50; */
+  /* animation: glow 1.2s ease-in-out infinite; */
+}
+/* @keyframes glow {
+  0%, 100% { box-shadow: 0 0 0 rgba(255, 200, 0, 0); }
+  50%      { box-shadow: 0 0 18px rgba(255, 200, 0, .8); }
+} */
+
+/* .wheel:hover { --wheel-duration: 1.2s; }  */
+/* .wheel:hover .wheel__inner { --wheel-duration:1.2s } */
+
+.wheel__text{
+  position: absolute;
+  inset: 70px 10%;
+  /* margin: auto; */
+  animation: pulse 1.2s ease-in-out infinite;
+  will-change: transform;
+  width: 80%;
+  height: 80%;
+
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.2); }   
+}
+
+/* Both images stack perfectly */
+.wheel__inner,
+.wheel__frame, 
+.spin__boost {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Frame should ignore clicks; inner too (usually) */
+.wheel__frame,
+.wheel__inner {
+  pointer-events: none;
+}
+
+/* Rotation */
+.wheel__inner {
+  transform-origin: 50% 50%;
+}
+
+.wheel__inner {
+  animation: spin var(--wheel-duration) var(--wheel-timing, linear) infinite;
+} 
+
+.spin__boost {
+  animation: spin 1.2s linear infinite;   /* choose your boost speed */
+  animation-play-state: paused;           /* important: don’t remove it */
+}
+
+.wheel:hover .spin__boost {
+  animation-play-state: running;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* Make the wheel stick to the top-left of its scroll container */

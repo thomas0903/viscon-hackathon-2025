@@ -1,0 +1,5539 @@
+[
+  {
+    "id": "lscholz|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:68cc8cb65fd9a0fb79e6757e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68d2b76f5fd9a0fb79e679fe",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "akühnert",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "awesack|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "awesack",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "mkruschwitz|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "mkruschwitz",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "bschäfer|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "bschäfer",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sschleich|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "sschleich",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sweinhold|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "sweinhold",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "mstaude|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "mstaude",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "rmude|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "rmude",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fhande|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "fhande",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ering|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "ering",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aconradi|amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "user_id": "aconradi",
+    "event_id": "amiv.ethz.ch:68d95f84d183a7d90a9ec34e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "akühnert",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68dd273fd183a7d90a9ec692",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fhande|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "fhande",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sstadelmann|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "sstadelmann",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hsöding|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hsöding",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "amangold|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "amangold",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sweinhold|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "sweinhold",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jschmiedecke|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "jschmiedecke",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "mstaude|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "mstaude",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "rharloff|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "rharloff",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sneureuther|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "sneureuther",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "awesack|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "awesack",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "akühnert",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "datzler|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "datzler",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ggutknecht|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "ggutknecht",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "cwagenknecht|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "cwagenknecht",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hsager|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hsager",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hkoch|amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "user_id": "hkoch",
+    "event_id": "amiv.ethz.ch:68de8e9e5fd9a0fb79e683b7",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sstadelmann|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "sstadelmann",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fhande|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "fhande",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hsöding|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hsöding",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "amangold|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "amangold",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sweinhold|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "sweinhold",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jschmiedecke|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "jschmiedecke",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "mstaude|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "mstaude",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "rharloff|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "rharloff",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sneureuther|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "sneureuther",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "awesack|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "awesack",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "akühnert",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "datzler|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "datzler",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ggutknecht|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "ggutknecht",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hsager|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hsager",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "cwagenknecht|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "cwagenknecht",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jpreiß|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "jpreiß",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hkoch|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hkoch",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "bschäfer|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "bschäfer",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "mkruschwitz|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "mkruschwitz",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "pseip|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "pseip",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hwernecke|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "hwernecke",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sbeer|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "sbeer",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "greuter|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "greuter",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "aconradi|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "aconradi",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "gwohlgemut|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "gwohlgemut",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "rmude|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "rmude",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "shein|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "shein",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "rgehringer|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "rgehringer",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "dhermighausen|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "dhermighausen",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "dfaust|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "dfaust",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tkostolzin|amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "user_id": "tkostolzin",
+    "event_id": "amiv.ethz.ch:68e35fded183a7d90a9eca78",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hsöding|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "hsöding",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "greuter|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "greuter",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "awesack|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "awesack",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "jschmiedecke|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "jschmiedecke",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "gwohlgemut|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "gwohlgemut",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "bschäfer|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "bschäfer",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "amude|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "amude",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tkostolzin|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "tkostolzin",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ptäsche|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ptäsche",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fhande|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "fhande",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "sstadelmann|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "sstadelmann",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "akühnert",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ifritsch|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "ifritsch",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "mstaude|amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "user_id": "mstaude",
+    "event_id": "amiv.ethz.ch:68ea02f35fd9a0fb79e68b59",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hsöding|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hsöding",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "greuter|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "greuter",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "awesack|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "awesack",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jschmiedecke|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "jschmiedecke",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "gwohlgemut|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "gwohlgemut",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "bschäfer|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "bschäfer",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "amude|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "amude",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tkostolzin|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "tkostolzin",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "febert|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ptäsche|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ptäsche",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fhande|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "fhande",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sstadelmann|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "sstadelmann",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "akühnert",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ifritsch|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ifritsch",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "mstaude|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "mstaude",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "shein|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "shein",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sweinhold|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "sweinhold",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ggutknecht|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ggutknecht",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aconradi|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "aconradi",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "hzimmer|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "hzimmer",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "cwagenknecht|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "cwagenknecht",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "rmude|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "rmude",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ddehmel|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "ddehmel",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "datzler|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "datzler",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sneureuther|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "sneureuther",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "rharloff|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "rharloff",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "amangold|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "amangold",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "dhermighausen|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "dhermighausen",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "mkruschwitz|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "mkruschwitz",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwiek|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "jwiek",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "mbolnbach|amiv.ethz.ch:653143ba05f980de2461db55",
+    "user_id": "mbolnbach",
+    "event_id": "amiv.ethz.ch:653143ba05f980de2461db55",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:67d05b355c4883718a36f46b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hsöding|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "hsöding",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "greuter|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "greuter",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "awesack|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "awesack",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jschmiedecke|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "jschmiedecke",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "gwohlgemut|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "gwohlgemut",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "bschäfer|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "bschäfer",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:68cc8f945fd9a0fb79e6758b",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fhande|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "fhande",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sstadelmann|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "sstadelmann",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hsöding|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hsöding",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "amangold|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "amangold",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sweinhold|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "sweinhold",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jschmiedecke|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "jschmiedecke",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "mstaude|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "mstaude",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "rharloff|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "rharloff",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "sneureuther|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "sneureuther",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "awesack|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "awesack",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "akühnert",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "datzler|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "datzler",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ggutknecht|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "ggutknecht",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hsager|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hsager",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "cwagenknecht|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "cwagenknecht",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jpreiß|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "jpreiß",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hkoch|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hkoch",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "bschäfer|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "bschäfer",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "mkruschwitz|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "mkruschwitz",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "pseip|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "pseip",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwernecke|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "hwernecke",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sbeer|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "sbeer",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "greuter|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "greuter",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aconradi|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "aconradi",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "gwohlgemut|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "gwohlgemut",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "rmude|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "rmude",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "dhermighausen|amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "user_id": "dhermighausen",
+    "event_id": "amiv.ethz.ch:68dd95a0d183a7d90a9ec6e9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68e35f905fd9a0fb79e68680",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68e3ac37d183a7d90a9ecab9",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68e3bf265811fa6940bf8c87",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68cb97a45fd9a0fb79e674dc",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68cc84ec5fd9a0fb79e67564",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "eweitzel",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fhande|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "fhande",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sstadelmann|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "sstadelmann",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hsöding|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "hsöding",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68c958215fd9a0fb79e672dc",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "cwagenknecht|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "cwagenknecht",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hbähr|amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "user_id": "hbähr",
+    "event_id": "amiv.ethz.ch:68d122105fd9a0fb79e67865",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68d43e415811fa6940bf8141",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68daa57d5811fa6940bf85d6",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "asteinberg|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "asteinberg",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ybutte|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "ybutte",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "sscholz",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "mstaude|amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "user_id": "mstaude",
+    "event_id": "amiv.ethz.ch:68c8e93bd183a7d90a9eb5f0",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "yhofmann|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "yhofmann",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "istumpf",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "febert",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68c974665811fa6940bf7776",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68c974665811fa6940bf7776",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "smohaupt",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "beimer",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "ahornich",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hbauer|amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "user_id": "hbauer",
+    "event_id": "amiv.ethz.ch:68766e60e94a0dd5102e3120",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "lscholz",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "tbender|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "tbender",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "aplath",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "aherrmann",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "fmüller|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "fmüller",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "hfaust",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "hwagner",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "hfritsch",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "kgraf|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "kgraf",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "ihenk",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hschmiedt|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "hschmiedt",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "jwagenknecht",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "retzold",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "aoestrovsky",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "uklemt|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "uklemt",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "ghendriks",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "nwesack",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ehaering|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "ehaering",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "fkusch|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "fkusch",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "user_id": "ehornich",
+    "event_id": "amiv.ethz.ch:68d2615a5811fa6940bf7f3e",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|vis.ethz.ch:934",
+    "user_id": "tbender",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|vis.ethz.ch:934",
+    "user_id": "lscholz",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|vis.ethz.ch:934",
+    "user_id": "kgraf",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|vis.ethz.ch:934",
+    "user_id": "fmüller",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|vis.ethz.ch:934",
+    "user_id": "smohaupt",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "aplath|vis.ethz.ch:934",
+    "user_id": "aplath",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|vis.ethz.ch:934",
+    "user_id": "nwesack",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|vis.ethz.ch:934",
+    "user_id": "yhofmann",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|vis.ethz.ch:934",
+    "user_id": "hwagner",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "istumpf|vis.ethz.ch:934",
+    "user_id": "istumpf",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "retzold|vis.ethz.ch:934",
+    "user_id": "retzold",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|vis.ethz.ch:934",
+    "user_id": "hfaust",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "jwagenknecht|vis.ethz.ch:934",
+    "user_id": "jwagenknecht",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|vis.ethz.ch:934",
+    "user_id": "febert",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "ehornich|vis.ethz.ch:934",
+    "user_id": "ehornich",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|vis.ethz.ch:934",
+    "user_id": "aoestrovsky",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hfritsch|vis.ethz.ch:934",
+    "user_id": "hfritsch",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|vis.ethz.ch:934",
+    "user_id": "fkusch",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|vis.ethz.ch:934",
+    "user_id": "ghendriks",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "beimer|vis.ethz.ch:934",
+    "user_id": "beimer",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hschmiedt|vis.ethz.ch:934",
+    "user_id": "hschmiedt",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|vis.ethz.ch:934",
+    "user_id": "ahornich",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "aherrmann|vis.ethz.ch:934",
+    "user_id": "aherrmann",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|vis.ethz.ch:934",
+    "user_id": "sscholz",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "cwagenknecht|vis.ethz.ch:934",
+    "user_id": "cwagenknecht",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "mstaude|vis.ethz.ch:934",
+    "user_id": "mstaude",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fhande|vis.ethz.ch:934",
+    "user_id": "fhande",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "awesack|vis.ethz.ch:934",
+    "user_id": "awesack",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hbähr|vis.ethz.ch:934",
+    "user_id": "hbähr",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|vis.ethz.ch:934",
+    "user_id": "asteinberg",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|vis.ethz.ch:934",
+    "user_id": "eweitzel",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hsöding|vis.ethz.ch:934",
+    "user_id": "hsöding",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "bschäfer|vis.ethz.ch:934",
+    "user_id": "bschäfer",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "akühnert|vis.ethz.ch:934",
+    "user_id": "akühnert",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehaering|vis.ethz.ch:934",
+    "user_id": "ehaering",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ybutte|vis.ethz.ch:934",
+    "user_id": "ybutte",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "uklemt|vis.ethz.ch:934",
+    "user_id": "uklemt",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "rharloff|vis.ethz.ch:934",
+    "user_id": "rharloff",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "gwohlgemut|vis.ethz.ch:934",
+    "user_id": "gwohlgemut",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sstadelmann|vis.ethz.ch:934",
+    "user_id": "sstadelmann",
+    "event_id": "vis.ethz.ch:934",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|vis.ethz.ch:950",
+    "user_id": "tbender",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|vis.ethz.ch:950",
+    "user_id": "lscholz",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "kgraf|vis.ethz.ch:950",
+    "user_id": "kgraf",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|vis.ethz.ch:950",
+    "user_id": "fmüller",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|vis.ethz.ch:950",
+    "user_id": "smohaupt",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|vis.ethz.ch:950",
+    "user_id": "aplath",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|vis.ethz.ch:950",
+    "user_id": "nwesack",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "yhofmann|vis.ethz.ch:950",
+    "user_id": "yhofmann",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|vis.ethz.ch:950",
+    "user_id": "hwagner",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|vis.ethz.ch:950",
+    "user_id": "istumpf",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "retzold|vis.ethz.ch:950",
+    "user_id": "retzold",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hfaust|vis.ethz.ch:950",
+    "user_id": "hfaust",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|vis.ethz.ch:950",
+    "user_id": "jwagenknecht",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "febert|vis.ethz.ch:950",
+    "user_id": "febert",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|vis.ethz.ch:950",
+    "user_id": "ehornich",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|vis.ethz.ch:950",
+    "user_id": "hfritsch",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|vis.ethz.ch:950",
+    "user_id": "aoestrovsky",
+    "event_id": "vis.ethz.ch:950",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|vis.ethz.ch:951",
+    "user_id": "tbender",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|vis.ethz.ch:951",
+    "user_id": "lscholz",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|vis.ethz.ch:951",
+    "user_id": "kgraf",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "fmüller|vis.ethz.ch:951",
+    "user_id": "fmüller",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|vis.ethz.ch:951",
+    "user_id": "smohaupt",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|vis.ethz.ch:951",
+    "user_id": "aplath",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|vis.ethz.ch:951",
+    "user_id": "nwesack",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "yhofmann|vis.ethz.ch:951",
+    "user_id": "yhofmann",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|vis.ethz.ch:951",
+    "user_id": "hwagner",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|vis.ethz.ch:951",
+    "user_id": "istumpf",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|vis.ethz.ch:951",
+    "user_id": "retzold",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|vis.ethz.ch:951",
+    "user_id": "hfaust",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|vis.ethz.ch:951",
+    "user_id": "jwagenknecht",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "febert|vis.ethz.ch:951",
+    "user_id": "febert",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|vis.ethz.ch:951",
+    "user_id": "ehornich",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|vis.ethz.ch:951",
+    "user_id": "hfritsch",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|vis.ethz.ch:951",
+    "user_id": "aoestrovsky",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|vis.ethz.ch:951",
+    "user_id": "fkusch",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ghendriks|vis.ethz.ch:951",
+    "user_id": "ghendriks",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|vis.ethz.ch:951",
+    "user_id": "ahornich",
+    "event_id": "vis.ethz.ch:951",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|vis.ethz.ch:985",
+    "user_id": "lscholz",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|vis.ethz.ch:985",
+    "user_id": "fmüller",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|vis.ethz.ch:985",
+    "user_id": "fkusch",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|vis.ethz.ch:985",
+    "user_id": "aplath",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|vis.ethz.ch:985",
+    "user_id": "jwagenknecht",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|vis.ethz.ch:985",
+    "user_id": "tbender",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|vis.ethz.ch:985",
+    "user_id": "kgraf",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|vis.ethz.ch:985",
+    "user_id": "ehornich",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|vis.ethz.ch:985",
+    "user_id": "hfaust",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|vis.ethz.ch:985",
+    "user_id": "febert",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hbähr|vis.ethz.ch:985",
+    "user_id": "hbähr",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|vis.ethz.ch:985",
+    "user_id": "smohaupt",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|vis.ethz.ch:985",
+    "user_id": "nwesack",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|vis.ethz.ch:985",
+    "user_id": "retzold",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|vis.ethz.ch:985",
+    "user_id": "hwagner",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fhande|vis.ethz.ch:985",
+    "user_id": "fhande",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "aoestrovsky|vis.ethz.ch:985",
+    "user_id": "aoestrovsky",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ybutte|vis.ethz.ch:985",
+    "user_id": "ybutte",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "istumpf|vis.ethz.ch:985",
+    "user_id": "istumpf",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "sscholz|vis.ethz.ch:985",
+    "user_id": "sscholz",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "awesack|vis.ethz.ch:985",
+    "user_id": "awesack",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "hbauer|vis.ethz.ch:985",
+    "user_id": "hbauer",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "eweitzel|vis.ethz.ch:985",
+    "user_id": "eweitzel",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|vis.ethz.ch:985",
+    "user_id": "hfritsch",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "beimer|vis.ethz.ch:985",
+    "user_id": "beimer",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "sstadelmann|vis.ethz.ch:985",
+    "user_id": "sstadelmann",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "hschmiedt|vis.ethz.ch:985",
+    "user_id": "hschmiedt",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aherrmann|vis.ethz.ch:985",
+    "user_id": "aherrmann",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "yhofmann|vis.ethz.ch:985",
+    "user_id": "yhofmann",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ahornich|vis.ethz.ch:985",
+    "user_id": "ahornich",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "asteinberg|vis.ethz.ch:985",
+    "user_id": "asteinberg",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "ghendriks|vis.ethz.ch:985",
+    "user_id": "ghendriks",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "jschmiedecke|vis.ethz.ch:985",
+    "user_id": "jschmiedecke",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "mstaude|vis.ethz.ch:985",
+    "user_id": "mstaude",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "pseip|vis.ethz.ch:985",
+    "user_id": "pseip",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "datzler|vis.ethz.ch:985",
+    "user_id": "datzler",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ihenk|vis.ethz.ch:985",
+    "user_id": "ihenk",
+    "event_id": "vis.ethz.ch:985",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|vis.ethz.ch:974",
+    "user_id": "tbender",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|vis.ethz.ch:974",
+    "user_id": "lscholz",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|vis.ethz.ch:974",
+    "user_id": "kgraf",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "fmüller|vis.ethz.ch:974",
+    "user_id": "fmüller",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|vis.ethz.ch:974",
+    "user_id": "smohaupt",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "aplath|vis.ethz.ch:974",
+    "user_id": "aplath",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "nwesack|vis.ethz.ch:974",
+    "user_id": "nwesack",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "yhofmann|vis.ethz.ch:974",
+    "user_id": "yhofmann",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|vis.ethz.ch:974",
+    "user_id": "hwagner",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": "all"
+  },
+  {
+    "id": "istumpf|vis.ethz.ch:974",
+    "user_id": "istumpf",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": "friends"
+  },
+  {
+    "id": "retzold|vis.ethz.ch:974",
+    "user_id": "retzold",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hfaust|vis.ethz.ch:974",
+    "user_id": "hfaust",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "jwagenknecht|vis.ethz.ch:974",
+    "user_id": "jwagenknecht",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "febert|vis.ethz.ch:974",
+    "user_id": "febert",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|vis.ethz.ch:974",
+    "user_id": "ehornich",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aoestrovsky|vis.ethz.ch:974",
+    "user_id": "aoestrovsky",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "hfritsch|vis.ethz.ch:974",
+    "user_id": "hfritsch",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "fkusch|vis.ethz.ch:974",
+    "user_id": "fkusch",
+    "event_id": "vis.ethz.ch:974",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "tbender|vis.ethz.ch:981",
+    "user_id": "tbender",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "lscholz|vis.ethz.ch:981",
+    "user_id": "lscholz",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "kgraf|vis.ethz.ch:981",
+    "user_id": "kgraf",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "going",
+    "visibility_override": "ghost"
+  },
+  {
+    "id": "fmüller|vis.ethz.ch:981",
+    "user_id": "fmüller",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "smohaupt|vis.ethz.ch:981",
+    "user_id": "smohaupt",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "aplath|vis.ethz.ch:981",
+    "user_id": "aplath",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "nwesack|vis.ethz.ch:981",
+    "user_id": "nwesack",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": "all"
+  },
+  {
+    "id": "yhofmann|vis.ethz.ch:981",
+    "user_id": "yhofmann",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "hwagner|vis.ethz.ch:981",
+    "user_id": "hwagner",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "istumpf|vis.ethz.ch:981",
+    "user_id": "istumpf",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  },
+  {
+    "id": "retzold|vis.ethz.ch:981",
+    "user_id": "retzold",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "going",
+    "visibility_override": null
+  },
+  {
+    "id": "ehornich|vis.ethz.ch:981",
+    "user_id": "ehornich",
+    "event_id": "vis.ethz.ch:981",
+    "rsvp_status": "declined",
+    "visibility_override": null
+  }
+]

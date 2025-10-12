@@ -1,0 +1,202 @@
+/* =========================
+   Event Card (base styles)
+   ========================= */
+
+/* Card container */
+.ec-card {
+  overflow: hidden;
+  border-radius: 16px;           
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  box-shadow: 0 1px 2px var(--color-card-shadow);
+  transition: box-shadow 160ms ease, transform 140ms ease;
+
+  /* ensure the card naturally stretches in grid cells */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.ec-card:hover {
+  box-shadow: 0 14px 36px var(--color-card-shadow-hover);
+  transform: translateY(-2px);
+}
+
+/* Top image */
+.ec-image {
+  position: relative;
+  width: 100%;
+  background: var(--color-surface);
+  aspect-ratio: 16 / 9;
+  border-bottom: 1px solid var(--color-border);
+}
+.ec-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Make the whole card link clean */
+.ec-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.ec-link:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(99,102,241,0.3);
+  border-radius: 12px; /* follows card corners inside */
+}
+
+/* Body */
+.ec-body {
+  padding: 16px;                 /* p-4 */
+}
+@media (min-width: 640px) {      /* sm:p-5 */
+  .ec-body { padding: 20px; }
+}
+
+/* Title (line-clamp-2) */
+.ec-title {
+  margin: 0;
+  font-size: 1.125rem;           /* text-lg */
+  line-height: 1.375;            /* leading-snug */
+  font-weight: 600;
+  color: var(--color-text);
+
+  /* force single-line ellipsis */
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Meta row */
+.ec-meta {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;     /* stack items vertically */
+  align-items: flex-start;     /* align left */
+  gap: 6px;                    /* vertical spacing */
+  font-size: 0.92rem;
+  color: var(--color-text-muted);
+}
+.ec-meta > span {
+  display: flex;              /* emoji + text on one line */
+  align-items: center;
+  gap: 8px;                   /* space between emoji and text */
+  width: 100%;
+  min-width: 0;               /* allow ellipsis to work in flex */
+}
+
+/* The inner text node (the second span) should ellipsize */
+.ec-meta > span > span:last-child {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* Footer row: going badge (left) + CTA (right) */
+.ec-footer {
+  margin-top: 14px;
+  margin-right: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.ec-going {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #16a34a; /* green-600 */
+  font-weight: 600;
+  font-size: 0.92rem;
+  white-space: nowrap;
+}
+.ec-going-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #22c55e; /* green-500 */
+  box-shadow: 0 0 0 2px rgba(34,197,94,0.15);
+  animation: ecDotFlash 1.5s ease-in-out infinite;
+}
+.ec-going-text { line-height: 1; }
+
+/* CTA */
+.ec-cta { margin-top: 16px; }
+.ec-button {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background-color: var(--color-accent);
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.9rem;
+  text-align: center;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.ec-button:hover {
+  background-color: var(--color-accent-strong);
+  transform: translateY(-1px);
+}
+
+.ec-button:active {
+  background-color: var(--color-accent);
+  transform: translateY(0);
+}
+
+.ec-button:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-ring);
+}
+
+/* =========================
+   Grid (with padding modifier)
+   ========================= */
+
+.ec-grid {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr)); /* mobile: 1 col */
+  gap: 16px;
+}
+
+/* Opt-in padding */
+.ec-grid--padded {
+  padding: 32px;
+  box-sizing: border-box; /* so padding doesn't reduce track widths */
+}
+
+@media (min-width: 640px) { /* sm */
+  .ec-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)); /* tablet: 2 cols */
+    gap: 20px;
+  }
+  .ec-grid--padded { padding: 20px; }
+}
+
+@media (min-width: 1024px) { /* lg */
+  .ec-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr)); /* desktop: 3 cols */
+    gap: 24px;
+  }
+  .ec-grid--padded { padding: 16px; }
+}
+
+@keyframes ecDotFlash {
+  0%, 100% {
+    opacity: 0.5;
+    transform: scale(1);
+    box-shadow: 0 0 0 0px rgba(34,197,94,0.15);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2);
+    box-shadow: 0 0 0 0px rgba(34,197,94,0.20);
+  }
+}

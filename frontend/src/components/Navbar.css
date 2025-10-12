@@ -1,0 +1,144 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 2rem;
+  /* Streamlined surface look */
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: 0.5rem;
+  position: sticky;
+  top: 0.5rem;
+  max-width: 1350px;
+  margin: 0 auto;
+  gap: 1rem;
+  z-index: 10;
+  box-shadow: 0 8px 16px var(--color-card-shadow), 0 1px 0 rgba(15, 23, 42, 0.06) inset;
+}
+
+.logo {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: var(--color-navbar-text);
+  letter-spacing: 0.05em;
+  z-index: 10;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+  gap: 1rem;
+  background: var(--color-surface-muted);
+  border-radius: 9999px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid var(--color-border);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+
+.nav-links li {
+  margin: 0;
+}
+
+.nav-link,
+.nav-link:visited {
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--color-navbar-text);
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  transition: background-color 0.25s ease, color 0.25s ease, box-shadow 0.25s ease;
+  display: inline-block;
+  font-size: 1.02rem;
+}
+
+.nav-link:hover,
+.nav-link:focus-visible {
+  background-color: var(--color-muted-bg);
+  color: var(--color-navbar-text);
+  outline: none;
+  box-shadow: 0 0 0 2px var(--color-ring) inset;
+}
+
+.nav-link.is-active {
+  color: var(--color-navbar-text);
+  background-color: var(--color-muted-bg);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.nav-profile img,
+.profile-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--color-border-strong);
+  transition: box-shadow 0.3s;
+  background: var(--color-surface);
+  display: block;
+  vertical-align: middle;
+}
+
+.nav-profile img:hover,
+.profile-avatar:hover {
+  box-shadow: 0 8px 18px var(--color-card-shadow);
+}
+
+.nav-indicator {
+  position: absolute;
+  top: 4px;
+  bottom: 4px;
+  left: 0;
+  width: 0;
+  border-radius: 9999px;
+  background: rgba(99, 102, 241, 0.18);
+  box-shadow: none;
+  transition: transform 260ms ease, width 260ms ease;
+  pointer-events: none;
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-left: auto;
+  position: relative;
+  z-index: 20;
+}
+
+/* Profile area */
+.nav-profile {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo-link {
+  /* Ensures the link doesn't have default text decoration */
+  text-decoration: none;
+  display: flex; /* Helps if you need to align items inside */
+  align-items: center;
+}
+
+/* Hide the dark logo by default (in light mode) */
+.logo--dark {
+  display: none;
+}
+
+/* When in dark mode... */
+.dark .logo--light {
+  /* ...hide the light logo */
+  display: none;
+}
+
+.dark .logo--dark {
+  /* ...and show the dark logo */
+  display: block;
+}

@@ -1,0 +1,21 @@
+# Python build context hygiene
+__pycache__
+*.pyc
+.venv
+venv
+
+# App runtime uploads should not be baked into the image
+var/uploads
+
+# VCS and editor files
+.git
+.gitignore
+.vscode
+.idea
+*.swp
+.DS_Store
+
+# Logs and caches
+.cache
+*.log
+

@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "ehornich|mstiebitz",
+    "user_id": "ehornich",
+    "friend_id": "mstiebitz",
+    "requester_id": "mstiebitz",
+    "status": "accepted",
+    "accepted_at": "2025-09-29T15:35:10.850268+00:00"
+  },
+  {
+    "id": "ehornich|hkoch",
+    "user_id": "ehornich",
+    "friend_id": "hkoch",
+    "requester_id": "ehornich",
+    "status": "accepted",
+    "accepted_at": "2025-08-20T05:44:37.015894+00:00"
+  },
+  {
+    "id": "ehornich|febert",
+    "user_id": "ehornich",
+    "friend_id": "febert",
+    "requester_id": "febert",
+    "status": "accepted",
+    "accepted_at": "2025-09-26T00:30:54.008809+00:00"
+  },
+  {
+    "id": "ehornich|eweitzel",
+    "user_id": "ehornich",
+    "friend_id": "eweitzel",
+    "requester_id": "ehornich",
+    "status": "accepted",
+    "accepted_at": "2025-01-26T03:40:52.079231+00:00"
+  },
+  {
+    "id": "ehornich|rhentschel",
+    "user_id": "ehornich",
+    "friend_id": "rhentschel",
+    "requester_id": "rhentschel",
+    "status": "accepted",
+    "accepted_at": "2024-11-13T05:45:32.667157+00:00"
+  },
+  {
+    "id": "ehornich|ihornich",
+    "user_id": "ehornich",
+    "friend_id": "ihornich",
+    "requester_id": "ehornich",
+    "status": "accepted",
+    "accepted_at": "2024-12-14T15:28:15.258306+00:00"
+  },
+  {
+    "id": "ehornich|mdietz",
+    "user_id": "ehornich",
+    "friend_id": "mdietz",
+    "requester_id": "mdietz",
+    "status": "accepted",
+    "accepted_at": "2025-07-22T10:12:46.750277+00:00"
+  },
+  {
+    "id": "ehornich|ghendriks",
+    "user_id": "ehornich",
+    "friend_id": "ghendriks",
+    "requester_id": "ehornich",
+    "status": "accepted",
+    "accepted_at": "2025-06-23T13:20:40.999880+00:00"
+  },
+  {
+    "id": "ehornich|pseip",
+    "user_id": "ehornich",
+    "friend_id": "pseip",
+    "requester_id": "ehornich",
+    "status": "accepted",
+    "accepted_at": "2025-08-23T12:31:46.218393+00:00"
+  },
+  {
+    "id": "ehornich|gwohlgemut",
+    "user_id": "ehornich",
+    "friend_id": "gwohlgemut",
+    "requester_id": "ehornich",
+    "status": "accepted",
+    "accepted_at": "2025-05-30T00:01:03.341876+00:00"
+  },
+  {
+    "id": "hkoch|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "hkoch",
+    "requester_id": "mstiebitz",
+    "status": "accepted",
+    "accepted_at": "2025-08-09T11:49:04.024428+00:00"
+  },
+  {
+    "id": "mdietz|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "mdietz",
+    "requester_id": "mdietz",
+    "status": "accepted",
+    "accepted_at": "2024-11-24T03:04:48.178592+00:00"
+  },
+  {
+    "id": "eweitzel|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "eweitzel",
+    "requester_id": "eweitzel",
+    "status": "accepted",
+    "accepted_at": "2024-12-20T18:35:55.368258+00:00"
+  },
+  {
+    "id": "hhamann|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "hhamann",
+    "requester_id": "mstiebitz",
+    "status": "accepted",
+    "accepted_at": "2024-11-07T17:18:07.296435+00:00"
+  },
+  {
+    "id": "ihornich|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "ihornich",
+    "requester_id": "mstiebitz",
+    "status": "accepted",
+    "accepted_at": "2025-09-01T17:07:26.198482+00:00"
+  },
+  {
+    "id": "aoestrovsky|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "aoestrovsky",
+    "requester_id": "mstiebitz",
+    "status": "accepted",
+    "accepted_at": "2025-05-22T09:05:29.440492+00:00"
+  },
+  {
+    "id": "jpreiß|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "jpreiß",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-07-20T12:07:18.734527+00:00"
+  },
+  {
+    "id": "jschmiedecke|mstiebitz",
+    "user_id": "mstiebitz",
+    "friend_id": "jschmiedecke",
+    "requester_id": "mstiebitz",
+    "status": "accepted",
+    "accepted_at": "2025-05-28T02:00:20.032185+00:00"
+  },
+  {
+    "id": "febert|rhentschel",
+    "user_id": "febert",
+    "friend_id": "rhentschel",
+    "requester_id": "rhentschel",
+    "status": "accepted",
+    "accepted_at": "2025-07-16T06:09:08.342511+00:00"
+  },
+  {
+    "id": "febert|mdietz",
+    "user_id": "febert",
+    "friend_id": "mdietz",
+    "requester_id": "febert",
+    "status": "accepted",
+    "accepted_at": "2025-02-17T11:47:03.823995+00:00"
+  },
+  {
+    "id": "febert|hhamann",
+    "user_id": "febert",
+    "friend_id": "hhamann",
+    "requester_id": "hhamann",
+    "status": "accepted",
+    "accepted_at": "2024-11-18T05:19:18.876772+00:00"
+  },
+  {
+    "id": "febert|hkoch",
+    "user_id": "febert",
+    "friend_id": "hkoch",
+    "requester_id": "hkoch",
+    "status": "accepted",
+    "accepted_at": "2025-09-13T17:15:37.245333+00:00"
+  },
+  {
+    "id": "aoestrovsky|febert",
+    "user_id": "febert",
+    "friend_id": "aoestrovsky",
+    "requester_id": "febert",
+    "status": "accepted",
+    "accepted_at": "2025-05-03T10:59:37.826309+00:00"
+  },
+  {
+    "id": "eweitzel|febert",
+    "user_id": "febert",
+    "friend_id": "eweitzel",
+    "requester_id": "febert",
+    "status": "accepted",
+    "accepted_at": "2024-12-25T14:08:33.884100+00:00"
+  },
+  {
+    "id": "aconradi|febert",
+    "user_id": "febert",
+    "friend_id": "aconradi",
+    "requester_id": "aconradi",
+    "status": "accepted",
+    "accepted_at": "2025-03-23T02:11:39.625914+00:00"
+  },
+  {
+    "id": "febert|ihornich",
+    "user_id": "febert",
+    "friend_id": "ihornich",
+    "requester_id": "febert",
+    "status": "accepted",
+    "accepted_at": "2025-08-01T16:37:13.325878+00:00"
+  },
+  {
+    "id": "febert|gsäuberlich",
+    "user_id": "febert",
+    "friend_id": "gsäuberlich",
+    "requester_id": "gsäuberlich",
+    "status": "accepted",
+    "accepted_at": "2025-05-30T04:18:56.657810+00:00"
+  },
+  {
+    "id": "mdietz|rhentschel",
+    "user_id": "rhentschel",
+    "friend_id": "mdietz",
+    "requester_id": "mdietz",
+    "status": "accepted",
+    "accepted_at": "2025-03-21T12:25:11.877081+00:00"
+  },
+  {
+    "id": "aoestrovsky|rhentschel",
+    "user_id": "rhentschel",
+    "friend_id": "aoestrovsky",
+    "requester_id": "aoestrovsky",
+    "status": "accepted",
+    "accepted_at": "2025-08-02T07:02:54.589567+00:00"
+  },
+  {
+    "id": "aconradi|rhentschel",
+    "user_id": "rhentschel",
+    "friend_id": "aconradi",
+    "requester_id": "rhentschel",
+    "status": "accepted",
+    "accepted_at": "2025-09-17T21:36:27.946790+00:00"
+  },
+  {
+    "id": "hkoch|rhentschel",
+    "user_id": "rhentschel",
+    "friend_id": "hkoch",
+    "requester_id": "hkoch",
+    "status": "accepted",
+    "accepted_at": "2024-10-28T10:13:45.481675+00:00"
+  },
+  {
+    "id": "hrosenow|rhentschel",
+    "user_id": "rhentschel",
+    "friend_id": "hrosenow",
+    "requester_id": "rhentschel",
+    "status": "accepted",
+    "accepted_at": "2025-03-30T03:54:14.616270+00:00"
+  },
+  {
+    "id": "eweitzel|rhentschel",
+    "user_id": "rhentschel",
+    "friend_id": "eweitzel",
+    "requester_id": "rhentschel",
+    "status": "accepted",
+    "accepted_at": "2025-01-02T01:10:54.393727+00:00"
+  },
+  {
+    "id": "aschweitzer|rhentschel",
+    "user_id": "rhentschel",
+    "friend_id": "aschweitzer",
+    "requester_id": "aschweitzer",
+    "status": "accepted",
+    "accepted_at": "2024-10-27T06:02:57.319703+00:00"
+  },
+  {
+    "id": "rhentschel|sweinhold",
+    "user_id": "rhentschel",
+    "friend_id": "sweinhold",
+    "requester_id": "rhentschel",
+    "status": "accepted",
+    "accepted_at": "2024-11-17T13:12:51.990085+00:00"
+  },
+  {
+    "id": "rhentschel|sröhrdanz",
+    "user_id": "rhentschel",
+    "friend_id": "sröhrdanz",
+    "requester_id": "rhentschel",
+    "status": "accepted",
+    "accepted_at": "2025-07-23T09:04:49.103653+00:00"
+  },
+  {
+    "id": "hhamann|mdietz",
+    "user_id": "mdietz",
+    "friend_id": "hhamann",
+    "requester_id": "hhamann",
+    "status": "accepted",
+    "accepted_at": "2025-05-30T07:22:26.308080+00:00"
+  },
+  {
+    "id": "aoestrovsky|mdietz",
+    "user_id": "mdietz",
+    "friend_id": "aoestrovsky",
+    "requester_id": "mdietz",
+    "status": "accepted",
+    "accepted_at": "2025-08-18T02:49:59.794113+00:00"
+  },
+  {
+    "id": "aconradi|mdietz",
+    "user_id": "mdietz",
+    "friend_id": "aconradi",
+    "requester_id": "aconradi",
+    "status": "accepted",
+    "accepted_at": "2025-01-25T03:25:40.898482+00:00"
+  },
+  {
+    "id": "ihenk|mdietz",
+    "user_id": "mdietz",
+    "friend_id": "ihenk",
+    "requester_id": "mdietz",
+    "status": "accepted",
+    "accepted_at": "2025-07-21T05:57:41.107239+00:00"
+  },
+  {
+    "id": "hkoch|mdietz",
+    "user_id": "mdietz",
+    "friend_id": "hkoch",
+    "requester_id": "hkoch",
+    "status": "accepted",
+    "accepted_at": "2025-01-14T01:34:44.479017+00:00"
+  },
+  {
+    "id": "hfaust|mdietz",
+    "user_id": "mdietz",
+    "friend_id": "hfaust",
+    "requester_id": "mdietz",
+    "status": "accepted",
+    "accepted_at": "2025-10-02T21:31:36.132825+00:00"
+  },
+  {
+    "id": "aoestrovsky|hhamann",
+    "user_id": "hhamann",
+    "friend_id": "aoestrovsky",
+    "requester_id": "hhamann",
+    "status": "accepted",
+    "accepted_at": "2025-05-07T16:52:54.046317+00:00"
+  },
+  {
+    "id": "aconradi|hhamann",
+    "user_id": "hhamann",
+    "friend_id": "aconradi",
+    "requester_id": "hhamann",
+    "status": "accepted",
+    "accepted_at": "2024-12-25T22:43:57.017241+00:00"
+  },
+  {
+    "id": "hhamann|hrosenow",
+    "user_id": "hhamann",
+    "friend_id": "hrosenow",
+    "requester_id": "hrosenow",
+    "status": "accepted",
+    "accepted_at": "2025-09-06T06:12:16.304020+00:00"
+  },
+  {
+    "id": "hhamann|ihenk",
+    "user_id": "hhamann",
+    "friend_id": "ihenk",
+    "requester_id": "hhamann",
+    "status": "accepted",
+    "accepted_at": "2024-11-08T08:17:42.114213+00:00"
+  },
+  {
+    "id": "hhamann|jwagenknecht",
+    "user_id": "hhamann",
+    "friend_id": "jwagenknecht",
+    "requester_id": "jwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-05-29T06:23:15.192243+00:00"
+  },
+  {
+    "id": "hhamann|kkoch",
+    "user_id": "hhamann",
+    "friend_id": "kkoch",
+    "requester_id": "kkoch",
+    "status": "accepted",
+    "accepted_at": "2025-06-25T05:57:52.315103+00:00"
+  },
+  {
+    "id": "aconradi|aoestrovsky",
+    "user_id": "aoestrovsky",
+    "friend_id": "aconradi",
+    "requester_id": "aconradi",
+    "status": "accepted",
+    "accepted_at": "2025-07-01T14:15:01.688682+00:00"
+  },
+  {
+    "id": "aoestrovsky|hrosenow",
+    "user_id": "aoestrovsky",
+    "friend_id": "hrosenow",
+    "requester_id": "hrosenow",
+    "status": "accepted",
+    "accepted_at": "2024-11-13T12:00:14.647674+00:00"
+  },
+  {
+    "id": "aoestrovsky|ihenk",
+    "user_id": "aoestrovsky",
+    "friend_id": "ihenk",
+    "requester_id": "ihenk",
+    "status": "accepted",
+    "accepted_at": "2025-02-22T21:11:38.847108+00:00"
+  },
+  {
+    "id": "aoestrovsky|jwagenknecht",
+    "user_id": "aoestrovsky",
+    "friend_id": "jwagenknecht",
+    "requester_id": "aoestrovsky",
+    "status": "accepted",
+    "accepted_at": "2025-04-22T00:50:01.490169+00:00"
+  },
+  {
+    "id": "aoestrovsky|hwagner",
+    "user_id": "aoestrovsky",
+    "friend_id": "hwagner",
+    "requester_id": "hwagner",
+    "status": "accepted",
+    "accepted_at": "2024-12-14T17:34:55.099515+00:00"
+  },
+  {
+    "id": "aoestrovsky|istumpf",
+    "user_id": "aoestrovsky",
+    "friend_id": "istumpf",
+    "requester_id": "aoestrovsky",
+    "status": "accepted",
+    "accepted_at": "2024-11-22T23:27:22.866993+00:00"
+  },
+  {
+    "id": "aconradi|hrosenow",
+    "user_id": "aconradi",
+    "friend_id": "hrosenow",
+    "requester_id": "aconradi",
+    "status": "accepted",
+    "accepted_at": "2025-09-25T13:34:10.032756+00:00"
+  },
+  {
+    "id": "aconradi|ihenk",
+    "user_id": "aconradi",
+    "friend_id": "ihenk",
+    "requester_id": "ihenk",
+    "status": "accepted",
+    "accepted_at": "2025-05-22T07:55:34.882412+00:00"
+  },
+  {
+    "id": "aconradi|jwagenknecht",
+    "user_id": "aconradi",
+    "friend_id": "jwagenknecht",
+    "requester_id": "jwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2024-12-23T04:37:13.611424+00:00"
+  },
+  {
+    "id": "aconradi|hwagner",
+    "user_id": "aconradi",
+    "friend_id": "hwagner",
+    "requester_id": "aconradi",
+    "status": "accepted",
+    "accepted_at": "2025-02-11T10:46:44.907396+00:00"
+  },
+  {
+    "id": "aconradi|gstadelmann",
+    "user_id": "aconradi",
+    "friend_id": "gstadelmann",
+    "requester_id": "aconradi",
+    "status": "accepted",
+    "accepted_at": "2024-11-08T09:54:20.735548+00:00"
+  },
+  {
+    "id": "hrosenow|jwagenknecht",
+    "user_id": "hrosenow",
+    "friend_id": "jwagenknecht",
+    "requester_id": "hrosenow",
+    "status": "accepted",
+    "accepted_at": "2025-02-14T23:37:38.400982+00:00"
+  },
+  {
+    "id": "hrosenow|hwagner",
+    "user_id": "hrosenow",
+    "friend_id": "hwagner",
+    "requester_id": "hwagner",
+    "status": "accepted",
+    "accepted_at": "2024-11-15T22:01:00.043499+00:00"
+  },
+  {
+    "id": "gstadelmann|hrosenow",
+    "user_id": "hrosenow",
+    "friend_id": "gstadelmann",
+    "requester_id": "hrosenow",
+    "status": "accepted",
+    "accepted_at": "2025-04-21T21:37:16.846320+00:00"
+  },
+  {
+    "id": "amude|hrosenow",
+    "user_id": "hrosenow",
+    "friend_id": "amude",
+    "requester_id": "hrosenow",
+    "status": "accepted",
+    "accepted_at": "2025-01-10T09:15:58.960064+00:00"
+  },
+  {
+    "id": "ering|hrosenow",
+    "user_id": "hrosenow",
+    "friend_id": "ering",
+    "requester_id": "hrosenow",
+    "status": "accepted",
+    "accepted_at": "2025-05-22T08:45:21.845114+00:00"
+  },
+  {
+    "id": "hrosenow|sschleich",
+    "user_id": "hrosenow",
+    "friend_id": "sschleich",
+    "requester_id": "sschleich",
+    "status": "accepted",
+    "accepted_at": "2025-09-03T09:27:56.259783+00:00"
+  },
+  {
+    "id": "asteinberg|hrosenow",
+    "user_id": "hrosenow",
+    "friend_id": "asteinberg",
+    "requester_id": "asteinberg",
+    "status": "accepted",
+    "accepted_at": "2025-01-03T22:02:06.054010+00:00"
+  },
+  {
+    "id": "ihenk|jwagenknecht",
+    "user_id": "ihenk",
+    "friend_id": "jwagenknecht",
+    "requester_id": "jwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-01-09T01:03:45.009262+00:00"
+  },
+  {
+    "id": "hwagner|ihenk",
+    "user_id": "ihenk",
+    "friend_id": "hwagner",
+    "requester_id": "hwagner",
+    "status": "accepted",
+    "accepted_at": "2025-06-12T19:32:40.680899+00:00"
+  },
+  {
+    "id": "gstadelmann|ihenk",
+    "user_id": "ihenk",
+    "friend_id": "gstadelmann",
+    "requester_id": "ihenk",
+    "status": "accepted",
+    "accepted_at": "2025-06-24T10:59:53.160776+00:00"
+  },
+  {
+    "id": "gkitzmann|ihenk",
+    "user_id": "ihenk",
+    "friend_id": "gkitzmann",
+    "requester_id": "ihenk",
+    "status": "accepted",
+    "accepted_at": "2025-04-01T01:31:16.697669+00:00"
+  },
+  {
+    "id": "ihenk|ybutte",
+    "user_id": "ihenk",
+    "friend_id": "ybutte",
+    "requester_id": "ihenk",
+    "status": "accepted",
+    "accepted_at": "2025-02-21T15:12:50.663500+00:00"
+  },
+  {
+    "id": "ihenk|sbeer",
+    "user_id": "ihenk",
+    "friend_id": "sbeer",
+    "requester_id": "sbeer",
+    "status": "accepted",
+    "accepted_at": "2024-12-31T07:52:50.944739+00:00"
+  },
+  {
+    "id": "gstadelmann|jwagenknecht",
+    "user_id": "jwagenknecht",
+    "friend_id": "gstadelmann",
+    "requester_id": "jwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-06-22T23:28:13.499741+00:00"
+  },
+  {
+    "id": "jwagenknecht|ybutte",
+    "user_id": "jwagenknecht",
+    "friend_id": "ybutte",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2025-09-10T14:10:55.047113+00:00"
+  },
+  {
+    "id": "hzimmer|jwagenknecht",
+    "user_id": "jwagenknecht",
+    "friend_id": "hzimmer",
+    "requester_id": "jwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-02-09T07:17:29.143008+00:00"
+  },
+  {
+    "id": "aplath|jwagenknecht",
+    "user_id": "jwagenknecht",
+    "friend_id": "aplath",
+    "requester_id": "aplath",
+    "status": "accepted",
+    "accepted_at": "2025-07-23T23:31:43.574559+00:00"
+  },
+  {
+    "id": "jwagenknecht|shein",
+    "user_id": "jwagenknecht",
+    "friend_id": "shein",
+    "requester_id": "jwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-07-08T23:06:17.483116+00:00"
+  },
+  {
+    "id": "gstadelmann|hwagner",
+    "user_id": "hwagner",
+    "friend_id": "gstadelmann",
+    "requester_id": "hwagner",
+    "status": "accepted",
+    "accepted_at": "2025-06-13T10:53:55.981345+00:00"
+  },
+  {
+    "id": "gkitzmann|hwagner",
+    "user_id": "hwagner",
+    "friend_id": "gkitzmann",
+    "requester_id": "gkitzmann",
+    "status": "accepted",
+    "accepted_at": "2024-12-24T16:38:07.500015+00:00"
+  },
+  {
+    "id": "hwagner|ybutte",
+    "user_id": "hwagner",
+    "friend_id": "ybutte",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2024-11-28T22:36:53.667466+00:00"
+  },
+  {
+    "id": "hwagner|hzimmer",
+    "user_id": "hwagner",
+    "friend_id": "hzimmer",
+    "requester_id": "hzimmer",
+    "status": "accepted",
+    "accepted_at": "2024-12-26T06:33:56.775318+00:00"
+  },
+  {
+    "id": "hwagner|sschleich",
+    "user_id": "hwagner",
+    "friend_id": "sschleich",
+    "requester_id": "sschleich",
+    "status": "accepted",
+    "accepted_at": "2025-06-29T14:09:38.856775+00:00"
+  },
+  {
+    "id": "hwagner|ireichmann",
+    "user_id": "hwagner",
+    "friend_id": "ireichmann",
+    "requester_id": "hwagner",
+    "status": "accepted",
+    "accepted_at": "2025-08-05T02:05:51.792486+00:00"
+  },
+  {
+    "id": "gkitzmann|gstadelmann",
+    "user_id": "gstadelmann",
+    "friend_id": "gkitzmann",
+    "requester_id": "gstadelmann",
+    "status": "accepted",
+    "accepted_at": "2025-09-05T01:15:38.626508+00:00"
+  },
+  {
+    "id": "gstadelmann|ybutte",
+    "user_id": "gstadelmann",
+    "friend_id": "ybutte",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2024-12-27T21:57:35.030236+00:00"
+  },
+  {
+    "id": "gstadelmann|hzimmer",
+    "user_id": "gstadelmann",
+    "friend_id": "hzimmer",
+    "requester_id": "hzimmer",
+    "status": "accepted",
+    "accepted_at": "2025-01-25T15:56:38.968165+00:00"
+  },
+  {
+    "id": "gstadelmann|sschleich",
+    "user_id": "gstadelmann",
+    "friend_id": "sschleich",
+    "requester_id": "sschleich",
+    "status": "accepted",
+    "accepted_at": "2025-09-06T16:42:20.719578+00:00"
+  },
+  {
+    "id": "bschäfer|gstadelmann",
+    "user_id": "gstadelmann",
+    "friend_id": "bschäfer",
+    "requester_id": "gstadelmann",
+    "status": "accepted",
+    "accepted_at": "2025-03-01T05:49:18.369340+00:00"
+  },
+  {
+    "id": "gkitzmann|ybutte",
+    "user_id": "gkitzmann",
+    "friend_id": "ybutte",
+    "requester_id": "gkitzmann",
+    "status": "accepted",
+    "accepted_at": "2024-11-11T06:20:30.098852+00:00"
+  },
+  {
+    "id": "gkitzmann|hzimmer",
+    "user_id": "gkitzmann",
+    "friend_id": "hzimmer",
+    "requester_id": "hzimmer",
+    "status": "accepted",
+    "accepted_at": "2025-01-01T14:41:58.130038+00:00"
+  },
+  {
+    "id": "gkitzmann|sschleich",
+    "user_id": "gkitzmann",
+    "friend_id": "sschleich",
+    "requester_id": "sschleich",
+    "status": "accepted",
+    "accepted_at": "2025-08-04T15:58:14.986020+00:00"
+  },
+  {
+    "id": "bschäfer|gkitzmann",
+    "user_id": "gkitzmann",
+    "friend_id": "bschäfer",
+    "requester_id": "bschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-01-01T19:56:24.821478+00:00"
+  },
+  {
+    "id": "gkitzmann|rgehringer",
+    "user_id": "gkitzmann",
+    "friend_id": "rgehringer",
+    "requester_id": "gkitzmann",
+    "status": "accepted",
+    "accepted_at": "2025-06-26T13:06:56.893568+00:00"
+  },
+  {
+    "id": "gkitzmann|jschmiedecke",
+    "user_id": "gkitzmann",
+    "friend_id": "jschmiedecke",
+    "requester_id": "jschmiedecke",
+    "status": "accepted",
+    "accepted_at": "2025-05-29T07:11:54.594793+00:00"
+  },
+  {
+    "id": "hzimmer|ybutte",
+    "user_id": "ybutte",
+    "friend_id": "hzimmer",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2025-09-15T22:14:21.441960+00:00"
+  },
+  {
+    "id": "sschleich|ybutte",
+    "user_id": "ybutte",
+    "friend_id": "sschleich",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2025-05-23T23:59:41.103338+00:00"
+  },
+  {
+    "id": "ptäsche|ybutte",
+    "user_id": "ybutte",
+    "friend_id": "ptäsche",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2025-08-06T02:24:11.832375+00:00"
+  },
+  {
+    "id": "hadolph|ybutte",
+    "user_id": "ybutte",
+    "friend_id": "hadolph",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2025-02-27T05:30:49.367110+00:00"
+  },
+  {
+    "id": "jwiek|ybutte",
+    "user_id": "ybutte",
+    "friend_id": "jwiek",
+    "requester_id": "ybutte",
+    "status": "accepted",
+    "accepted_at": "2025-10-07T21:31:36.028157+00:00"
+  },
+  {
+    "id": "hzimmer|sschleich",
+    "user_id": "hzimmer",
+    "friend_id": "sschleich",
+    "requester_id": "sschleich",
+    "status": "accepted",
+    "accepted_at": "2024-10-23T20:10:22.534963+00:00"
+  },
+  {
+    "id": "bschäfer|hzimmer",
+    "user_id": "hzimmer",
+    "friend_id": "bschäfer",
+    "requester_id": "hzimmer",
+    "status": "accepted",
+    "accepted_at": "2025-04-05T04:23:28.527691+00:00"
+  },
+  {
+    "id": "hzimmer|ptäsche",
+    "user_id": "hzimmer",
+    "friend_id": "ptäsche",
+    "requester_id": "hzimmer",
+    "status": "accepted",
+    "accepted_at": "2025-08-08T00:04:36.783823+00:00"
+  },
+  {
+    "id": "hzimmer|ireichmann",
+    "user_id": "hzimmer",
+    "friend_id": "ireichmann",
+    "requester_id": "hzimmer",
+    "status": "accepted",
+    "accepted_at": "2025-09-21T12:34:20.886774+00:00"
+  },
+  {
+    "id": "hzimmer|sweinhold",
+    "user_id": "hzimmer",
+    "friend_id": "sweinhold",
+    "requester_id": "sweinhold",
+    "status": "accepted",
+    "accepted_at": "2024-11-04T21:51:25.736197+00:00"
+  },
+  {
+    "id": "bschäfer|sschleich",
+    "user_id": "sschleich",
+    "friend_id": "bschäfer",
+    "requester_id": "bschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-03-17T03:00:07.321171+00:00"
+  },
+  {
+    "id": "rgehringer|sschleich",
+    "user_id": "sschleich",
+    "friend_id": "rgehringer",
+    "requester_id": "sschleich",
+    "status": "accepted",
+    "accepted_at": "2025-06-12T19:40:59.268313+00:00"
+  },
+  {
+    "id": "rmetz|sschleich",
+    "user_id": "sschleich",
+    "friend_id": "rmetz",
+    "requester_id": "rmetz",
+    "status": "accepted",
+    "accepted_at": "2025-03-15T00:41:50.918982+00:00"
+  },
+  {
+    "id": "cschottin|sschleich",
+    "user_id": "sschleich",
+    "friend_id": "cschottin",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2025-04-24T10:36:34.265851+00:00"
+  },
+  {
+    "id": "bschäfer|rgehringer",
+    "user_id": "bschäfer",
+    "friend_id": "rgehringer",
+    "requester_id": "rgehringer",
+    "status": "accepted",
+    "accepted_at": "2025-06-06T15:53:08.940124+00:00"
+  },
+  {
+    "id": "bschäfer|ptäsche",
+    "user_id": "bschäfer",
+    "friend_id": "ptäsche",
+    "requester_id": "ptäsche",
+    "status": "accepted",
+    "accepted_at": "2025-08-17T11:40:18.192522+00:00"
+  },
+  {
+    "id": "bschäfer|rmetz",
+    "user_id": "bschäfer",
+    "friend_id": "rmetz",
+    "requester_id": "bschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-02-13T17:30:04.897788+00:00"
+  },
+  {
+    "id": "bschäfer|cschottin",
+    "user_id": "bschäfer",
+    "friend_id": "cschottin",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2025-02-18T12:52:08.787040+00:00"
+  },
+  {
+    "id": "bschäfer|ifritsch",
+    "user_id": "bschäfer",
+    "friend_id": "ifritsch",
+    "requester_id": "ifritsch",
+    "status": "accepted",
+    "accepted_at": "2025-06-17T17:29:00.082242+00:00"
+  },
+  {
+    "id": "ptäsche|rgehringer",
+    "user_id": "rgehringer",
+    "friend_id": "ptäsche",
+    "requester_id": "ptäsche",
+    "status": "accepted",
+    "accepted_at": "2025-03-21T13:38:53.814919+00:00"
+  },
+  {
+    "id": "cschottin|rgehringer",
+    "user_id": "rgehringer",
+    "friend_id": "cschottin",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2025-05-22T12:48:53.434413+00:00"
+  },
+  {
+    "id": "ifritsch|rgehringer",
+    "user_id": "rgehringer",
+    "friend_id": "ifritsch",
+    "requester_id": "ifritsch",
+    "status": "accepted",
+    "accepted_at": "2024-10-29T06:04:36.759820+00:00"
+  },
+  {
+    "id": "rgehringer|sröhrdanz",
+    "user_id": "rgehringer",
+    "friend_id": "sröhrdanz",
+    "requester_id": "sröhrdanz",
+    "status": "accepted",
+    "accepted_at": "2025-08-13T16:05:21.919814+00:00"
+  },
+  {
+    "id": "hsager|rgehringer",
+    "user_id": "rgehringer",
+    "friend_id": "hsager",
+    "requester_id": "hsager",
+    "status": "accepted",
+    "accepted_at": "2025-05-30T00:12:24.993387+00:00"
+  },
+  {
+    "id": "ptäsche|rmetz",
+    "user_id": "ptäsche",
+    "friend_id": "rmetz",
+    "requester_id": "rmetz",
+    "status": "accepted",
+    "accepted_at": "2025-04-18T14:10:44.649463+00:00"
+  },
+  {
+    "id": "cschottin|ptäsche",
+    "user_id": "ptäsche",
+    "friend_id": "cschottin",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2025-01-23T21:23:21.703149+00:00"
+  },
+  {
+    "id": "ifritsch|ptäsche",
+    "user_id": "ptäsche",
+    "friend_id": "ifritsch",
+    "requester_id": "ifritsch",
+    "status": "accepted",
+    "accepted_at": "2025-07-06T16:19:33.060513+00:00"
+  },
+  {
+    "id": "ireichmann|ptäsche",
+    "user_id": "ptäsche",
+    "friend_id": "ireichmann",
+    "requester_id": "ireichmann",
+    "status": "accepted",
+    "accepted_at": "2025-10-11T06:40:12.136520+00:00"
+  },
+  {
+    "id": "aheinrich|ptäsche",
+    "user_id": "ptäsche",
+    "friend_id": "aheinrich",
+    "requester_id": "aheinrich",
+    "status": "accepted",
+    "accepted_at": "2024-10-25T18:25:33.725142+00:00"
+  },
+  {
+    "id": "mkruschwitz|ptäsche",
+    "user_id": "ptäsche",
+    "friend_id": "mkruschwitz",
+    "requester_id": "ptäsche",
+    "status": "accepted",
+    "accepted_at": "2024-11-05T13:34:39.453630+00:00"
+  },
+  {
+    "id": "ghendriks|ptäsche",
+    "user_id": "ptäsche",
+    "friend_id": "ghendriks",
+    "requester_id": "ptäsche",
+    "status": "accepted",
+    "accepted_at": "2025-08-09T14:39:55.575299+00:00"
+  },
+  {
+    "id": "cschottin|rmetz",
+    "user_id": "rmetz",
+    "friend_id": "cschottin",
+    "requester_id": "rmetz",
+    "status": "accepted",
+    "accepted_at": "2025-03-16T13:43:25.685108+00:00"
+  },
+  {
+    "id": "ifritsch|rmetz",
+    "user_id": "rmetz",
+    "friend_id": "ifritsch",
+    "requester_id": "ifritsch",
+    "status": "accepted",
+    "accepted_at": "2025-01-01T20:57:55.905897+00:00"
+  },
+  {
+    "id": "ireichmann|rmetz",
+    "user_id": "rmetz",
+    "friend_id": "ireichmann",
+    "requester_id": "rmetz",
+    "status": "accepted",
+    "accepted_at": "2025-03-31T19:15:48.461641+00:00"
+  },
+  {
+    "id": "aheinrich|rmetz",
+    "user_id": "rmetz",
+    "friend_id": "aheinrich",
+    "requester_id": "aheinrich",
+    "status": "accepted",
+    "accepted_at": "2025-03-18T05:38:59.232831+00:00"
+  },
+  {
+    "id": "rmetz|shein",
+    "user_id": "rmetz",
+    "friend_id": "shein",
+    "requester_id": "rmetz",
+    "status": "accepted",
+    "accepted_at": "2025-05-18T17:56:49.656285+00:00"
+  },
+  {
+    "id": "akühnert|rmetz",
+    "user_id": "rmetz",
+    "friend_id": "akühnert",
+    "requester_id": "akühnert",
+    "status": "accepted",
+    "accepted_at": "2024-12-05T01:45:45.769153+00:00"
+  },
+  {
+    "id": "cschottin|ifritsch",
+    "user_id": "cschottin",
+    "friend_id": "ifritsch",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2025-02-27T17:49:08.571051+00:00"
+  },
+  {
+    "id": "cschottin|ireichmann",
+    "user_id": "cschottin",
+    "friend_id": "ireichmann",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2025-07-17T01:36:43.018141+00:00"
+  },
+  {
+    "id": "aheinrich|cschottin",
+    "user_id": "cschottin",
+    "friend_id": "aheinrich",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2024-11-06T02:33:18.457713+00:00"
+  },
+  {
+    "id": "cschottin|tbender",
+    "user_id": "cschottin",
+    "friend_id": "tbender",
+    "requester_id": "cschottin",
+    "status": "accepted",
+    "accepted_at": "2025-06-13T14:17:51.871503+00:00"
+  },
+  {
+    "id": "beimer|cschottin",
+    "user_id": "cschottin",
+    "friend_id": "beimer",
+    "requester_id": "beimer",
+    "status": "accepted",
+    "accepted_at": "2025-07-29T00:42:38.058597+00:00"
+  },
+  {
+    "id": "ifritsch|ireichmann",
+    "user_id": "ifritsch",
+    "friend_id": "ireichmann",
+    "requester_id": "ifritsch",
+    "status": "accepted",
+    "accepted_at": "2025-02-10T03:20:38.216041+00:00"
+  },
+  {
+    "id": "aheinrich|ifritsch",
+    "user_id": "ifritsch",
+    "friend_id": "aheinrich",
+    "requester_id": "aheinrich",
+    "status": "accepted",
+    "accepted_at": "2025-02-20T10:30:37.177874+00:00"
+  },
+  {
+    "id": "ifritsch|shein",
+    "user_id": "ifritsch",
+    "friend_id": "shein",
+    "requester_id": "shein",
+    "status": "accepted",
+    "accepted_at": "2025-07-04T11:37:10.588663+00:00"
+  },
+  {
+    "id": "ifritsch|tbender",
+    "user_id": "ifritsch",
+    "friend_id": "tbender",
+    "requester_id": "ifritsch",
+    "status": "accepted",
+    "accepted_at": "2025-07-28T01:42:48.386031+00:00"
+  },
+  {
+    "id": "amude|ifritsch",
+    "user_id": "ifritsch",
+    "friend_id": "amude",
+    "requester_id": "ifritsch",
+    "status": "accepted",
+    "accepted_at": "2025-08-18T10:07:14.877584+00:00"
+  },
+  {
+    "id": "aheinrich|ireichmann",
+    "user_id": "ireichmann",
+    "friend_id": "aheinrich",
+    "requester_id": "ireichmann",
+    "status": "accepted",
+    "accepted_at": "2024-10-20T06:44:29.619940+00:00"
+  },
+  {
+    "id": "ireichmann|tbender",
+    "user_id": "ireichmann",
+    "friend_id": "tbender",
+    "requester_id": "ireichmann",
+    "status": "accepted",
+    "accepted_at": "2025-06-06T21:10:52.628421+00:00"
+  },
+  {
+    "id": "amude|ireichmann",
+    "user_id": "ireichmann",
+    "friend_id": "amude",
+    "requester_id": "ireichmann",
+    "status": "accepted",
+    "accepted_at": "2025-02-16T06:15:42.520980+00:00"
+  },
+  {
+    "id": "ahornich|ireichmann",
+    "user_id": "ireichmann",
+    "friend_id": "ahornich",
+    "requester_id": "ahornich",
+    "status": "accepted",
+    "accepted_at": "2025-02-27T03:17:37.252459+00:00"
+  },
+  {
+    "id": "dhermighausen|ireichmann",
+    "user_id": "ireichmann",
+    "friend_id": "dhermighausen",
+    "requester_id": "dhermighausen",
+    "status": "accepted",
+    "accepted_at": "2025-01-26T10:03:45.236141+00:00"
+  },
+  {
+    "id": "aheinrich|shein",
+    "user_id": "aheinrich",
+    "friend_id": "shein",
+    "requester_id": "shein",
+    "status": "accepted",
+    "accepted_at": "2025-02-25T19:48:17.327276+00:00"
+  },
+  {
+    "id": "aheinrich|tbender",
+    "user_id": "aheinrich",
+    "friend_id": "tbender",
+    "requester_id": "tbender",
+    "status": "accepted",
+    "accepted_at": "2025-02-23T16:09:46.318760+00:00"
+  },
+  {
+    "id": "aheinrich|amude",
+    "user_id": "aheinrich",
+    "friend_id": "amude",
+    "requester_id": "aheinrich",
+    "status": "accepted",
+    "accepted_at": "2024-11-19T15:30:11.304042+00:00"
+  },
+  {
+    "id": "aheinrich|ahornich",
+    "user_id": "aheinrich",
+    "friend_id": "ahornich",
+    "requester_id": "ahornich",
+    "status": "accepted",
+    "accepted_at": "2025-02-05T02:46:49.856188+00:00"
+  },
+  {
+    "id": "aheinrich|dfaust",
+    "user_id": "aheinrich",
+    "friend_id": "dfaust",
+    "requester_id": "aheinrich",
+    "status": "accepted",
+    "accepted_at": "2025-09-02T15:11:48.861171+00:00"
+  },
+  {
+    "id": "shein|tbender",
+    "user_id": "shein",
+    "friend_id": "tbender",
+    "requester_id": "shein",
+    "status": "accepted",
+    "accepted_at": "2025-05-01T05:56:01.022564+00:00"
+  },
+  {
+    "id": "amude|shein",
+    "user_id": "shein",
+    "friend_id": "amude",
+    "requester_id": "shein",
+    "status": "accepted",
+    "accepted_at": "2025-06-15T11:39:13.379396+00:00"
+  },
+  {
+    "id": "ahornich|shein",
+    "user_id": "shein",
+    "friend_id": "ahornich",
+    "requester_id": "shein",
+    "status": "accepted",
+    "accepted_at": "2025-06-24T23:15:40.672035+00:00"
+  },
+  {
+    "id": "dfaust|shein",
+    "user_id": "shein",
+    "friend_id": "dfaust",
+    "requester_id": "shein",
+    "status": "accepted",
+    "accepted_at": "2025-01-07T08:38:09.671085+00:00"
+  },
+  {
+    "id": "greuter|shein",
+    "user_id": "shein",
+    "friend_id": "greuter",
+    "requester_id": "shein",
+    "status": "accepted",
+    "accepted_at": "2025-03-10T11:25:09.158264+00:00"
+  },
+  {
+    "id": "amude|tbender",
+    "user_id": "tbender",
+    "friend_id": "amude",
+    "requester_id": "amude",
+    "status": "accepted",
+    "accepted_at": "2024-10-21T00:53:18.208707+00:00"
+  },
+  {
+    "id": "ahornich|tbender",
+    "user_id": "tbender",
+    "friend_id": "ahornich",
+    "requester_id": "ahornich",
+    "status": "accepted",
+    "accepted_at": "2024-12-21T11:45:01.606906+00:00"
+  },
+  {
+    "id": "dfaust|tbender",
+    "user_id": "tbender",
+    "friend_id": "dfaust",
+    "requester_id": "tbender",
+    "status": "accepted",
+    "accepted_at": "2025-04-14T14:43:39.316980+00:00"
+  },
+  {
+    "id": "greuter|tbender",
+    "user_id": "tbender",
+    "friend_id": "greuter",
+    "requester_id": "tbender",
+    "status": "accepted",
+    "accepted_at": "2025-03-11T06:00:13.323229+00:00"
+  },
+  {
+    "id": "kgraf|tbender",
+    "user_id": "tbender",
+    "friend_id": "kgraf",
+    "requester_id": "kgraf",
+    "status": "accepted",
+    "accepted_at": "2024-12-07T17:34:12.595110+00:00"
+  },
+  {
+    "id": "ahornich|amude",
+    "user_id": "amude",
+    "friend_id": "ahornich",
+    "requester_id": "amude",
+    "status": "accepted",
+    "accepted_at": "2025-03-02T07:55:05.076621+00:00"
+  },
+  {
+    "id": "amude|greuter",
+    "user_id": "amude",
+    "friend_id": "greuter",
+    "requester_id": "amude",
+    "status": "accepted",
+    "accepted_at": "2024-11-03T10:52:44.347696+00:00"
+  },
+  {
+    "id": "amangold|amude",
+    "user_id": "amude",
+    "friend_id": "amangold",
+    "requester_id": "amude",
+    "status": "accepted",
+    "accepted_at": "2025-02-14T20:57:10.454572+00:00"
+  },
+  {
+    "id": "amude|sweinhold",
+    "user_id": "amude",
+    "friend_id": "sweinhold",
+    "requester_id": "sweinhold",
+    "status": "accepted",
+    "accepted_at": "2025-03-24T04:02:58.515248+00:00"
+  },
+  {
+    "id": "amude|hadolph",
+    "user_id": "amude",
+    "friend_id": "hadolph",
+    "requester_id": "hadolph",
+    "status": "accepted",
+    "accepted_at": "2025-08-30T02:11:52.657622+00:00"
+  },
+  {
+    "id": "ahornich|dfaust",
+    "user_id": "ahornich",
+    "friend_id": "dfaust",
+    "requester_id": "ahornich",
+    "status": "accepted",
+    "accepted_at": "2025-02-17T18:59:00.054328+00:00"
+  },
+  {
+    "id": "ahornich|greuter",
+    "user_id": "ahornich",
+    "friend_id": "greuter",
+    "requester_id": "ahornich",
+    "status": "accepted",
+    "accepted_at": "2025-04-27T17:53:36.630269+00:00"
+  },
+  {
+    "id": "ahornich|kgraf",
+    "user_id": "ahornich",
+    "friend_id": "kgraf",
+    "requester_id": "ahornich",
+    "status": "accepted",
+    "accepted_at": "2025-03-31T15:28:07.318516+00:00"
+  },
+  {
+    "id": "ahornich|amangold",
+    "user_id": "ahornich",
+    "friend_id": "amangold",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2025-03-10T16:24:53.231588+00:00"
+  },
+  {
+    "id": "ahornich|retzold",
+    "user_id": "ahornich",
+    "friend_id": "retzold",
+    "requester_id": "ahornich",
+    "status": "accepted",
+    "accepted_at": "2025-10-02T05:57:37.052440+00:00"
+  },
+  {
+    "id": "amangold|dfaust",
+    "user_id": "dfaust",
+    "friend_id": "amangold",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2025-04-15T17:26:09.425330+00:00"
+  },
+  {
+    "id": "dfaust|retzold",
+    "user_id": "dfaust",
+    "friend_id": "retzold",
+    "requester_id": "dfaust",
+    "status": "accepted",
+    "accepted_at": "2024-11-13T00:08:02.316185+00:00"
+  },
+  {
+    "id": "dfaust|hwernecke",
+    "user_id": "dfaust",
+    "friend_id": "hwernecke",
+    "requester_id": "dfaust",
+    "status": "accepted",
+    "accepted_at": "2025-06-07T18:20:28.227060+00:00"
+  },
+  {
+    "id": "ahöfig|dfaust",
+    "user_id": "dfaust",
+    "friend_id": "ahöfig",
+    "requester_id": "dfaust",
+    "status": "accepted",
+    "accepted_at": "2025-07-25T16:54:52.974703+00:00"
+  },
+  {
+    "id": "dfaust|mkruschwitz",
+    "user_id": "dfaust",
+    "friend_id": "mkruschwitz",
+    "requester_id": "dfaust",
+    "status": "accepted",
+    "accepted_at": "2025-08-14T05:03:58.113260+00:00"
+  },
+  {
+    "id": "dfaust|ihornich",
+    "user_id": "dfaust",
+    "friend_id": "ihornich",
+    "requester_id": "dfaust",
+    "status": "accepted",
+    "accepted_at": "2024-10-18T16:16:12.302905+00:00"
+  },
+  {
+    "id": "greuter|kgraf",
+    "user_id": "greuter",
+    "friend_id": "kgraf",
+    "requester_id": "greuter",
+    "status": "accepted",
+    "accepted_at": "2024-12-05T03:29:25.322799+00:00"
+  },
+  {
+    "id": "amangold|greuter",
+    "user_id": "greuter",
+    "friend_id": "amangold",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2025-07-20T14:16:30.993706+00:00"
+  },
+  {
+    "id": "greuter|hwernecke",
+    "user_id": "greuter",
+    "friend_id": "hwernecke",
+    "requester_id": "hwernecke",
+    "status": "accepted",
+    "accepted_at": "2025-05-05T04:38:08.396805+00:00"
+  },
+  {
+    "id": "greuter|jpreiß",
+    "user_id": "greuter",
+    "friend_id": "jpreiß",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-04-02T11:09:28.119852+00:00"
+  },
+  {
+    "id": "greuter|kdrubin",
+    "user_id": "greuter",
+    "friend_id": "kdrubin",
+    "requester_id": "kdrubin",
+    "status": "accepted",
+    "accepted_at": "2025-09-03T04:02:31.382894+00:00"
+  },
+  {
+    "id": "eweitzel|greuter",
+    "user_id": "greuter",
+    "friend_id": "eweitzel",
+    "requester_id": "eweitzel",
+    "status": "accepted",
+    "accepted_at": "2025-06-09T21:53:22.375996+00:00"
+  },
+  {
+    "id": "amangold|kgraf",
+    "user_id": "kgraf",
+    "friend_id": "amangold",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2024-10-26T03:44:21.262398+00:00"
+  },
+  {
+    "id": "kgraf|retzold",
+    "user_id": "kgraf",
+    "friend_id": "retzold",
+    "requester_id": "kgraf",
+    "status": "accepted",
+    "accepted_at": "2024-12-27T00:06:15.742986+00:00"
+  },
+  {
+    "id": "hwernecke|kgraf",
+    "user_id": "kgraf",
+    "friend_id": "hwernecke",
+    "requester_id": "hwernecke",
+    "status": "accepted",
+    "accepted_at": "2024-11-07T12:06:28.034749+00:00"
+  },
+  {
+    "id": "jpreiß|kgraf",
+    "user_id": "kgraf",
+    "friend_id": "jpreiß",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-04-21T01:08:20.216211+00:00"
+  },
+  {
+    "id": "hsager|kgraf",
+    "user_id": "kgraf",
+    "friend_id": "hsager",
+    "requester_id": "kgraf",
+    "status": "accepted",
+    "accepted_at": "2025-02-03T21:45:25.652473+00:00"
+  },
+  {
+    "id": "hsöding|kgraf",
+    "user_id": "kgraf",
+    "friend_id": "hsöding",
+    "requester_id": "hsöding",
+    "status": "accepted",
+    "accepted_at": "2024-11-20T08:51:40.365389+00:00"
+  },
+  {
+    "id": "amangold|retzold",
+    "user_id": "amangold",
+    "friend_id": "retzold",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2025-07-13T06:36:12.425001+00:00"
+  },
+  {
+    "id": "amangold|hwernecke",
+    "user_id": "amangold",
+    "friend_id": "hwernecke",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2025-01-09T07:59:46.619600+00:00"
+  },
+  {
+    "id": "amangold|jpreiß",
+    "user_id": "amangold",
+    "friend_id": "jpreiß",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2024-12-12T15:49:39.769095+00:00"
+  },
+  {
+    "id": "amangold|hsager",
+    "user_id": "amangold",
+    "friend_id": "hsager",
+    "requester_id": "hsager",
+    "status": "accepted",
+    "accepted_at": "2025-08-28T15:26:39.182598+00:00"
+  },
+  {
+    "id": "amangold|cwagenknecht",
+    "user_id": "amangold",
+    "friend_id": "cwagenknecht",
+    "requester_id": "amangold",
+    "status": "accepted",
+    "accepted_at": "2025-02-16T04:51:07.467076+00:00"
+  },
+  {
+    "id": "hwernecke|retzold",
+    "user_id": "retzold",
+    "friend_id": "hwernecke",
+    "requester_id": "hwernecke",
+    "status": "accepted",
+    "accepted_at": "2025-04-23T00:33:17.588738+00:00"
+  },
+  {
+    "id": "jpreiß|retzold",
+    "user_id": "retzold",
+    "friend_id": "jpreiß",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-07-10T07:50:54.884632+00:00"
+  },
+  {
+    "id": "hsager|retzold",
+    "user_id": "retzold",
+    "friend_id": "hsager",
+    "requester_id": "retzold",
+    "status": "accepted",
+    "accepted_at": "2025-06-01T13:12:30.813812+00:00"
+  },
+  {
+    "id": "cwagenknecht|retzold",
+    "user_id": "retzold",
+    "friend_id": "cwagenknecht",
+    "requester_id": "cwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2024-10-17T15:32:27.524266+00:00"
+  },
+  {
+    "id": "hschmiedt|retzold",
+    "user_id": "retzold",
+    "friend_id": "hschmiedt",
+    "requester_id": "retzold",
+    "status": "accepted",
+    "accepted_at": "2025-07-06T22:28:57.853975+00:00"
+  },
+  {
+    "id": "hfaust|retzold",
+    "user_id": "retzold",
+    "friend_id": "hfaust",
+    "requester_id": "hfaust",
+    "status": "accepted",
+    "accepted_at": "2025-02-03T05:23:10.312062+00:00"
+  },
+  {
+    "id": "hwernecke|jpreiß",
+    "user_id": "hwernecke",
+    "friend_id": "jpreiß",
+    "requester_id": "hwernecke",
+    "status": "accepted",
+    "accepted_at": "2025-02-10T02:04:59.360635+00:00"
+  },
+  {
+    "id": "hsager|hwernecke",
+    "user_id": "hwernecke",
+    "friend_id": "hsager",
+    "requester_id": "hwernecke",
+    "status": "accepted",
+    "accepted_at": "2025-10-03T22:12:42.798527+00:00"
+  },
+  {
+    "id": "cwagenknecht|hwernecke",
+    "user_id": "hwernecke",
+    "friend_id": "cwagenknecht",
+    "requester_id": "hwernecke",
+    "status": "accepted",
+    "accepted_at": "2024-10-22T16:44:28.785975+00:00"
+  },
+  {
+    "id": "hschmiedt|hwernecke",
+    "user_id": "hwernecke",
+    "friend_id": "hschmiedt",
+    "requester_id": "hschmiedt",
+    "status": "accepted",
+    "accepted_at": "2025-04-06T08:22:07.526697+00:00"
+  },
+  {
+    "id": "hwernecke|mkruschwitz",
+    "user_id": "hwernecke",
+    "friend_id": "mkruschwitz",
+    "requester_id": "mkruschwitz",
+    "status": "accepted",
+    "accepted_at": "2025-03-08T05:33:38.760196+00:00"
+  },
+  {
+    "id": "hsager|jpreiß",
+    "user_id": "jpreiß",
+    "friend_id": "hsager",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-02-21T15:44:09.785538+00:00"
+  },
+  {
+    "id": "cwagenknecht|jpreiß",
+    "user_id": "jpreiß",
+    "friend_id": "cwagenknecht",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-08-11T18:35:16.776179+00:00"
+  },
+  {
+    "id": "hschmiedt|jpreiß",
+    "user_id": "jpreiß",
+    "friend_id": "hschmiedt",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-01-10T18:51:31.906210+00:00"
+  },
+  {
+    "id": "dhermighausen|jpreiß",
+    "user_id": "jpreiß",
+    "friend_id": "dhermighausen",
+    "requester_id": "jpreiß",
+    "status": "accepted",
+    "accepted_at": "2025-02-06T15:31:57.347273+00:00"
+  },
+  {
+    "id": "beimer|jpreiß",
+    "user_id": "jpreiß",
+    "friend_id": "beimer",
+    "requester_id": "beimer",
+    "status": "accepted",
+    "accepted_at": "2025-01-16T03:52:16.810310+00:00"
+  },
+  {
+    "id": "cwagenknecht|hsager",
+    "user_id": "hsager",
+    "friend_id": "cwagenknecht",
+    "requester_id": "cwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-07-04T14:48:49.868522+00:00"
+  },
+  {
+    "id": "hsager|hschmiedt",
+    "user_id": "hsager",
+    "friend_id": "hschmiedt",
+    "requester_id": "hsager",
+    "status": "accepted",
+    "accepted_at": "2025-05-11T01:05:04.364644+00:00"
+  },
+  {
+    "id": "hsager|sröhrdanz",
+    "user_id": "hsager",
+    "friend_id": "sröhrdanz",
+    "requester_id": "sröhrdanz",
+    "status": "accepted",
+    "accepted_at": "2025-05-24T23:56:34.049881+00:00"
+  },
+  {
+    "id": "ahöfig|hsager",
+    "user_id": "hsager",
+    "friend_id": "ahöfig",
+    "requester_id": "ahöfig",
+    "status": "accepted",
+    "accepted_at": "2024-10-19T21:00:07.438201+00:00"
+  },
+  {
+    "id": "cwagenknecht|hschmiedt",
+    "user_id": "cwagenknecht",
+    "friend_id": "hschmiedt",
+    "requester_id": "hschmiedt",
+    "status": "accepted",
+    "accepted_at": "2025-02-02T21:51:52.191943+00:00"
+  },
+  {
+    "id": "cwagenknecht|mkruschwitz",
+    "user_id": "cwagenknecht",
+    "friend_id": "mkruschwitz",
+    "requester_id": "cwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-05-19T08:30:34.605087+00:00"
+  },
+  {
+    "id": "cwagenknecht|dhermighausen",
+    "user_id": "cwagenknecht",
+    "friend_id": "dhermighausen",
+    "requester_id": "cwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-07-09T23:43:44.842313+00:00"
+  },
+  {
+    "id": "cwagenknecht|sröhrdanz",
+    "user_id": "cwagenknecht",
+    "friend_id": "sröhrdanz",
+    "requester_id": "sröhrdanz",
+    "status": "accepted",
+    "accepted_at": "2025-02-09T21:26:45.245005+00:00"
+  },
+  {
+    "id": "cwagenknecht|ggutknecht",
+    "user_id": "cwagenknecht",
+    "friend_id": "ggutknecht",
+    "requester_id": "cwagenknecht",
+    "status": "accepted",
+    "accepted_at": "2025-02-02T22:54:08.502005+00:00"
+  },
+  {
+    "id": "hschmiedt|mkruschwitz",
+    "user_id": "hschmiedt",
+    "friend_id": "mkruschwitz",
+    "requester_id": "mkruschwitz",
+    "status": "accepted",
+    "accepted_at": "2025-09-14T20:04:31.950610+00:00"
+  },
+  {
+    "id": "dhermighausen|hschmiedt",
+    "user_id": "hschmiedt",
+    "friend_id": "dhermighausen",
+    "requester_id": "dhermighausen",
+    "status": "accepted",
+    "accepted_at": "2025-05-09T22:29:54.846808+00:00"
+  },
+  {
+    "id": "hschmiedt|sröhrdanz",
+    "user_id": "hschmiedt",
+    "friend_id": "sröhrdanz",
+    "requester_id": "hschmiedt",
+    "status": "accepted",
+    "accepted_at": "2025-03-12T03:31:27.481971+00:00"
+  },
+  {
+    "id": "ggutknecht|hschmiedt",
+    "user_id": "hschmiedt",
+    "friend_id": "ggutknecht",
+    "requester_id": "ggutknecht",
+    "status": "accepted",
+    "accepted_at": "2025-06-18T06:34:24.708200+00:00"
+  },
+  {
+    "id": "hschmiedt|sstadelmann",
+    "user_id": "hschmiedt",
+    "friend_id": "sstadelmann",
+    "requester_id": "hschmiedt",
+    "status": "accepted",
+    "accepted_at": "2025-02-27T14:46:24.205105+00:00"
+  },
+  {
+    "id": "mkruschwitz|sröhrdanz",
+    "user_id": "mkruschwitz",
+    "friend_id": "sröhrdanz",
+    "requester_id": "sröhrdanz",
+    "status": "accepted",
+    "accepted_at": "2025-03-06T14:28:52.510804+00:00"
+  },
+  {
+    "id": "mkruschwitz|sstadelmann",
+    "user_id": "mkruschwitz",
+    "friend_id": "sstadelmann",
+    "requester_id": "sstadelmann",
+    "status": "accepted",
+    "accepted_at": "2024-12-03T21:59:12.113435+00:00"
+  },
+  {
+    "id": "mkruschwitz|rmude",
+    "user_id": "mkruschwitz",
+    "friend_id": "rmude",
+    "requester_id": "rmude",
+    "status": "accepted",
+    "accepted_at": "2024-11-25T17:54:59.829554+00:00"
+  },
+  {
+    "id": "mkruschwitz|yschmidt",
+    "user_id": "mkruschwitz",
+    "friend_id": "yschmidt",
+    "requester_id": "yschmidt",
+    "status": "accepted",
+    "accepted_at": "2025-07-23T16:51:59.924799+00:00"
+  },
+  {
+    "id": "dhermighausen|sröhrdanz",
+    "user_id": "dhermighausen",
+    "friend_id": "sröhrdanz",
+    "requester_id": "sröhrdanz",
+    "status": "accepted",
+    "accepted_at": "2025-07-24T01:30:08.678694+00:00"
+  },
+  {
+    "id": "dhermighausen|ggutknecht",
+    "user_id": "dhermighausen",
+    "friend_id": "ggutknecht",
+    "requester_id": "dhermighausen",
+    "status": "accepted",
+    "accepted_at": "2024-12-11T08:29:26.801648+00:00"
+  },
+  {
+    "id": "dhermighausen|sstadelmann",
+    "user_id": "dhermighausen",
+    "friend_id": "sstadelmann",
+    "requester_id": "dhermighausen",
+    "status": "accepted",
+    "accepted_at": "2025-05-17T15:18:22.369920+00:00"
+  },
+  {
+    "id": "ahartung|dhermighausen",
+    "user_id": "dhermighausen",
+    "friend_id": "ahartung",
+    "requester_id": "ahartung",
+    "status": "accepted",
+    "accepted_at": "2025-09-05T17:06:03.138265+00:00"
+  },
+  {
+    "id": "dhermighausen|jschmiedecke",
+    "user_id": "dhermighausen",
+    "friend_id": "jschmiedecke",
+    "requester_id": "dhermighausen",
+    "status": "accepted",
+    "accepted_at": "2024-11-25T04:07:34.413755+00:00"
+  },
+  {
+    "id": "dhermighausen|mbolnbach",
+    "user_id": "dhermighausen",
+    "friend_id": "mbolnbach",
+    "requester_id": "mbolnbach",
+    "status": "accepted",
+    "accepted_at": "2025-07-02T10:07:15.986704+00:00"
+  },
+  {
+    "id": "ggutknecht|sröhrdanz",
+    "user_id": "sröhrdanz",
+    "friend_id": "ggutknecht",
+    "requester_id": "ggutknecht",
+    "status": "accepted",
+    "accepted_at": "2024-11-14T20:10:30.154517+00:00"
+  },
+  {
+    "id": "sröhrdanz|sstadelmann",
+    "user_id": "sröhrdanz",
+    "friend_id": "sstadelmann",
+    "requester_id": "sröhrdanz",
+    "status": "accepted",
+    "accepted_at": "2025-07-31T23:00:00.044520+00:00"
+  },
+  {
+    "id": "ahartung|sröhrdanz",
+    "user_id": "sröhrdanz",
+    "friend_id": "ahartung",
+    "requester_id": "sröhrdanz",
+    "status": "accepted",
+    "accepted_at": "2025-05-07T03:56:05.321716+00:00"
+  },
+  {
+    "id": "eschäfer|sröhrdanz",
+    "user_id": "sröhrdanz",
+    "friend_id": "eschäfer",
+    "requester_id": "eschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-05-17T09:36:38.976661+00:00"
+  },
+  {
+    "id": "ggutknecht|sstadelmann",
+    "user_id": "ggutknecht",
+    "friend_id": "sstadelmann",
+    "requester_id": "ggutknecht",
+    "status": "accepted",
+    "accepted_at": "2025-05-09T10:56:41.118588+00:00"
+  },
+  {
+    "id": "ahartung|ggutknecht",
+    "user_id": "ggutknecht",
+    "friend_id": "ahartung",
+    "requester_id": "ggutknecht",
+    "status": "accepted",
+    "accepted_at": "2025-01-08T07:37:16.648032+00:00"
+  },
+  {
+    "id": "ggutknecht|jschmiedecke",
+    "user_id": "ggutknecht",
+    "friend_id": "jschmiedecke",
+    "requester_id": "ggutknecht",
+    "status": "accepted",
+    "accepted_at": "2025-09-21T09:52:12.336841+00:00"
+  },
+  {
+    "id": "eschäfer|ggutknecht",
+    "user_id": "ggutknecht",
+    "friend_id": "eschäfer",
+    "requester_id": "ggutknecht",
+    "status": "accepted",
+    "accepted_at": "2025-06-06T00:39:29.011292+00:00"
+  },
+  {
+    "id": "datzler|ggutknecht",
+    "user_id": "ggutknecht",
+    "friend_id": "datzler",
+    "requester_id": "ggutknecht",
+    "status": "accepted",
+    "accepted_at": "2024-10-31T04:39:26.491412+00:00"
+  },
+  {
+    "id": "ggutknecht|hfritsch",
+    "user_id": "ggutknecht",
+    "friend_id": "hfritsch",
+    "requester_id": "hfritsch",
+    "status": "accepted",
+    "accepted_at": "2024-11-01T15:47:13.502817+00:00"
+  },
+  {
+    "id": "ahartung|sstadelmann",
+    "user_id": "sstadelmann",
+    "friend_id": "ahartung",
+    "requester_id": "sstadelmann",
+    "status": "accepted",
+    "accepted_at": "2025-07-14T08:28:09.562882+00:00"
+  },
+  {
+    "id": "jschmiedecke|sstadelmann",
+    "user_id": "sstadelmann",
+    "friend_id": "jschmiedecke",
+    "requester_id": "jschmiedecke",
+    "status": "accepted",
+    "accepted_at": "2025-05-22T18:59:30.493293+00:00"
+  },
+  {
+    "id": "eschäfer|sstadelmann",
+    "user_id": "sstadelmann",
+    "friend_id": "eschäfer",
+    "requester_id": "sstadelmann",
+    "status": "accepted",
+    "accepted_at": "2025-02-02T22:16:39.614214+00:00"
+  },
+  {
+    "id": "datzler|sstadelmann",
+    "user_id": "sstadelmann",
+    "friend_id": "datzler",
+    "requester_id": "sstadelmann",
+    "status": "accepted",
+    "accepted_at": "2025-04-24T13:54:37.404370+00:00"
+  },
+  {
+    "id": "hbauer|sstadelmann",
+    "user_id": "sstadelmann",
+    "friend_id": "hbauer",
+    "requester_id": "sstadelmann",
+    "status": "accepted",
+    "accepted_at": "2025-07-21T13:35:30.675414+00:00"
+  },
+  {
+    "id": "ahartung|jschmiedecke",
+    "user_id": "ahartung",
+    "friend_id": "jschmiedecke",
+    "requester_id": "jschmiedecke",
+    "status": "accepted",
+    "accepted_at": "2025-05-17T11:01:10.253970+00:00"
+  },
+  {
+    "id": "ahartung|eschäfer",
+    "user_id": "ahartung",
+    "friend_id": "eschäfer",
+    "requester_id": "eschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-09-23T09:02:25.014718+00:00"
+  },
+  {
+    "id": "ahartung|datzler",
+    "user_id": "ahartung",
+    "friend_id": "datzler",
+    "requester_id": "ahartung",
+    "status": "accepted",
+    "accepted_at": "2025-04-29T21:22:44.296980+00:00"
+  },
+  {
+    "id": "ahartung|gsäuberlich",
+    "user_id": "ahartung",
+    "friend_id": "gsäuberlich",
+    "requester_id": "ahartung",
+    "status": "accepted",
+    "accepted_at": "2025-01-22T01:33:28.417449+00:00"
+  },
+  {
+    "id": "ahartung|asteinberg",
+    "user_id": "ahartung",
+    "friend_id": "asteinberg",
+    "requester_id": "asteinberg",
+    "status": "accepted",
+    "accepted_at": "2025-02-17T10:33:14.050218+00:00"
+  },
+  {
+    "id": "ahartung|akühnert",
+    "user_id": "ahartung",
+    "friend_id": "akühnert",
+    "requester_id": "ahartung",
+    "status": "accepted",
+    "accepted_at": "2025-04-09T02:55:49.313867+00:00"
+  },
+  {
+    "id": "eschäfer|jschmiedecke",
+    "user_id": "jschmiedecke",
+    "friend_id": "eschäfer",
+    "requester_id": "jschmiedecke",
+    "status": "accepted",
+    "accepted_at": "2025-02-27T23:43:14.893609+00:00"
+  },
+  {
+    "id": "datzler|jschmiedecke",
+    "user_id": "jschmiedecke",
+    "friend_id": "datzler",
+    "requester_id": "jschmiedecke",
+    "status": "accepted",
+    "accepted_at": "2025-08-05T15:06:46.647657+00:00"
+  },
+  {
+    "id": "gsäuberlich|jschmiedecke",
+    "user_id": "jschmiedecke",
+    "friend_id": "gsäuberlich",
+    "requester_id": "gsäuberlich",
+    "status": "accepted",
+    "accepted_at": "2025-02-05T21:10:44.076784+00:00"
+  },
+  {
+    "id": "jschmiedecke|yschmidt",
+    "user_id": "jschmiedecke",
+    "friend_id": "yschmidt",
+    "requester_id": "yschmidt",
+    "status": "accepted",
+    "accepted_at": "2024-12-04T16:53:13.362794+00:00"
+  },
+  {
+    "id": "datzler|eschäfer",
+    "user_id": "eschäfer",
+    "friend_id": "datzler",
+    "requester_id": "eschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-01-03T01:06:06.527978+00:00"
+  },
+  {
+    "id": "eschäfer|gsäuberlich",
+    "user_id": "eschäfer",
+    "friend_id": "gsäuberlich",
+    "requester_id": "eschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-06-18T21:28:07.623192+00:00"
+  },
+  {
+    "id": "asteinberg|eschäfer",
+    "user_id": "eschäfer",
+    "friend_id": "asteinberg",
+    "requester_id": "asteinberg",
+    "status": "accepted",
+    "accepted_at": "2024-11-14T19:59:37.584471+00:00"
+  },
+  {
+    "id": "eschäfer|rmude",
+    "user_id": "eschäfer",
+    "friend_id": "rmude",
+    "requester_id": "rmude",
+    "status": "accepted",
+    "accepted_at": "2025-05-15T07:04:20.367378+00:00"
+  },
+  {
+    "id": "ering|eschäfer",
+    "user_id": "eschäfer",
+    "friend_id": "ering",
+    "requester_id": "eschäfer",
+    "status": "accepted",
+    "accepted_at": "2025-02-06T08:24:24.851485+00:00"
+  },
+  {
+    "id": "datzler|gsäuberlich",
+    "user_id": "datzler",
+    "friend_id": "gsäuberlich",
+    "requester_id": "datzler",
+    "status": "accepted",
+    "accepted_at": "2025-07-29T11:38:01.907186+00:00"
+  },
+  {
+    "id": "asteinberg|datzler",
+    "user_id": "datzler",
+    "friend_id": "asteinberg",
+    "requester_id": "asteinberg",
+    "status": "accepted",
+    "accepted_at": "2025-01-24T20:37:46.201058+00:00"
+  },
+  {
+    "id": "datzler|yschmidt",
+    "user_id": "datzler",
+    "friend_id": "yschmidt",
+    "requester_id": "datzler",
+    "status": "accepted",
+    "accepted_at": "2025-03-13T13:13:30.127425+00:00"
+  },
+  {
+    "id": "beimer|datzler",
+    "user_id": "datzler",
+    "friend_id": "beimer",
+    "requester_id": "beimer",
+    "status": "accepted",
+    "accepted_at": "2025-05-29T01:30:22.810477+00:00"
+  },
+  {
+    "id": "datzler|hbauer",
+    "user_id": "datzler",
+    "friend_id": "hbauer",
+    "requester_id": "hbauer",
+    "status": "accepted",
+    "accepted_at": "2024-12-15T04:29:07.415057+00:00"
+  },
+  {
+    "id": "datzler|rharloff",
+    "user_id": "datzler",
+    "friend_id": "rharloff",
+    "requester_id": "datzler",
+    "status": "accepted",
+    "accepted_at": "2025-07-27T09:20:29.542313+00:00"
+  },
+  {
+    "id": "asteinberg|gsäuberlich",
+    "user_id": "gsäuberlich",
+    "friend_id": "asteinberg",
+    "requester_id": "gsäuberlich",
+    "status": "accepted",
+    "accepted_at": "2025-04-24T05:30:18.307126+00:00"
+  },
+  {
+    "id": "beimer|gsäuberlich",
+    "user_id": "gsäuberlich",
+    "friend_id": "beimer",
+    "requester_id": "beimer",
+    "status": "accepted",
+    "accepted_at": "2025-02-20T13:53:02.195212+00:00"
+  },
+  {
+    "id": "gsäuberlich|hbauer",
+    "user_id": "gsäuberlich",
+    "friend_id": "hbauer",
+    "requester_id": "gsäuberlich",
+    "status": "accepted",
+    "accepted_at": "2024-10-19T16:54:18.507482+00:00"
+  },
+  {
+    "id": "ering|gsäuberlich",
+    "user_id": "gsäuberlich",
+    "friend_id": "ering",
+    "requester_id": "gsäuberlich",
+    "status": "accepted",
+    "accepted_at": "2025-03-16T00:00:38.773423+00:00"
+  },
+  {
+    "id": "gsäuberlich|hfaust",
+    "user_id": "gsäuberlich",
+    "friend_id": "hfaust",
+    "requester_id": "hfaust",
+    "status": "accepted",
+    "accepted_at": "2024-10-15T11:43:10.702223+00:00"
+  },
+  {
+    "id": "gsäuberlich|sscholz",
+    "user_id": "gsäuberlich",
+    "friend_id": "sscholz",
+    "requester_id": "sscholz",
+    "status": "accepted",
+    "accepted_at": "2024-11-12T20:03:42.587666+00:00"
+  },
+  {
+    "id": "asteinberg|yschmidt",
+    "user_id": "asteinberg",
+    "friend_id": "yschmidt",
+    "requester_id": "yschmidt",
+    "status": "accepted",
+    "accepted_at": "2025-08-08T07:18:42.488206+00:00"
+  },
+  {
+    "id": "asteinberg|beimer",
+    "user_id": "asteinberg",
+    "friend_id": "beimer",
+    "requester_id": "asteinberg",
+    "status": "accepted",
+    "accepted_at": "2025-08-21T09:34:08.002500+00:00"
+  },
+  {
+    "id": "asteinberg|hbauer",
+    "user_id": "asteinberg",
+    "friend_id": "hbauer",
+    "requester_id": "hbauer",
+    "status": "accepted",
+    "accepted_at": "2025-02-21T01:02:27.349518+00:00"
+  },
+  {
+    "id": "asteinberg|ering",
+    "user_id": "asteinberg",
+    "friend_id": "ering",
+    "requester_id": "asteinberg",
+    "status": "accepted",
+    "accepted_at": "2024-11-10T19:58:47.028592+00:00"
+  },
+  {
+    "id": "asteinberg|yhofmann",
+    "user_id": "asteinberg",
+    "friend_id": "yhofmann",
+    "requester_id": "asteinberg",
+    "status": "accepted",
+    "accepted_at": "2025-05-29T13:16:23.453521+00:00"
+  },
+  {
+    "id": "asteinberg|pseip",
+    "user_id": "asteinberg",
+    "friend_id": "pseip",
+    "requester_id": "pseip",
+    "status": "accepted",
+    "accepted_at": "2024-11-13T22:40:31.213915+00:00"
+  },
+  {
+    "id": "ering|yschmidt",
+    "user_id": "yschmidt",
+    "friend_id": "ering",
+    "requester_id": "yschmidt",
+    "status": "accepted",
+    "accepted_at": "2024-10-31T06:10:16.708587+00:00"
+  },
+  {
+    "id": "yhofmann|yschmidt",
+    "user_id": "yschmidt",
+    "friend_id": "yhofmann",
+    "requester_id": "yhofmann",
+    "status": "accepted",
+    "accepted_at": "2024-11-25T07:50:02.192296+00:00"
+  },
+  {
+    "id": "ihornich|yschmidt",
+    "user_id": "yschmidt",
+    "friend_id": "ihornich",
+    "requester_id": "ihornich",
+    "status": "accepted",
+    "accepted_at": "2024-11-29T23:06:30.860881+00:00"
+  },
+  {
+    "id": "mstaude|yschmidt",
+    "user_id": "yschmidt",
+    "friend_id": "mstaude",
+    "requester_id": "mstaude",
+    "status": "accepted",
+    "accepted_at": "2025-05-17T17:19:01.324014+00:00"
+  },
+  {
+    "id": "beimer|hbauer",
+    "user_id": "beimer",
+    "friend_id": "hbauer",
+    "requester_id": "beimer",
+    "status": "accepted",
+    "accepted_at": "2025-08-22T02:31:32.368972+00:00"
+  },
+  {
+    "id": "beimer|ering",
+    "user_id": "beimer",
+    "friend_id": "ering",
+    "requester_id": "ering",
+    "status": "accepted",
+    "accepted_at": "2025-02-26T19:32:33.379343+00:00"
+  },
+  {
+    "id": "beimer|yhofmann",
+    "user_id": "beimer",
+    "friend_id": "yhofmann",
+    "requester_id": "beimer",
+    "status": "accepted",
+    "accepted_at": "2025-09-27T23:55:30.766924+00:00"
+  },
+  {
+    "id": "beimer|ehellwig",
+    "user_id": "beimer",
+    "friend_id": "ehellwig",
+    "requester_id": "ehellwig",
+    "status": "accepted",
+    "accepted_at": "2025-05-14T12:32:54.714006+00:00"
+  },
+  {
+    "id": "beimer|kdrubin",
+    "user_id": "beimer",
+    "friend_id": "kdrubin",
+    "requester_id": "beimer",
+    "status": "accepted",
+    "accepted_at": "2025-06-08T06:15:37.674988+00:00"
+  },
+  {
+    "id": "beimer|fmüller",
+    "user_id": "beimer",
+    "friend_id": "fmüller",
+    "requester_id": "fmüller",
+    "status": "accepted",
+    "accepted_at": "2025-07-11T19:24:38.923482+00:00"
+  },
+  {
+    "id": "hbauer|kdrubin",
+    "user_id": "hbauer",
+    "friend_id": "kdrubin",
+    "requester_id": "hbauer",
+    "status": "accepted",
+    "accepted_at": "2025-03-30T03:02:12.390737+00:00"
+  },
+  {
+    "id": "hbauer|hbähr",
+    "user_id": "hbauer",
+    "friend_id": "hbähr",
+    "requester_id": "hbauer",
+    "status": "accepted",
+    "accepted_at": "2024-12-17T20:23:20.863588+00:00"
+  },
+  {
+    "id": "hbauer|pbörner",
+    "user_id": "hbauer",
+    "friend_id": "pbörner",
+    "requester_id": "hbauer",
+    "status": "accepted",
+    "accepted_at": "2025-06-03T08:52:02.839326+00:00"
+  },
+  {
+    "id": "awesack|hbauer",
+    "user_id": "hbauer",
+    "friend_id": "awesack",
+    "requester_id": "awesack",
+    "status": "accepted",
+    "accepted_at": "2025-02-15T15:07:38.396529+00:00"
+  },
+  {
+    "id": "ehaering|hbauer",
+    "user_id": "hbauer",
+    "friend_id": "ehaering",
+    "requester_id": "ehaering",
+    "status": "accepted",
+    "accepted_at": "2025-09-04T09:31:00.115904+00:00"
+  },
+  {
+    "id": "hbauer|istumpf",
+    "user_id": "hbauer",
+    "friend_id": "istumpf",
+    "requester_id": "hbauer",
+    "status": "accepted",
+    "accepted_at": "2024-12-15T14:42:28.437080+00:00"
+  },
+  {
+    "id": "ering|yhofmann",
+    "user_id": "ering",
+    "friend_id": "yhofmann",
+    "requester_id": "yhofmann",
+    "status": "accepted",
+    "accepted_at": "2024-10-23T16:29:38.628028+00:00"
+  },
+  {
+    "id": "ering|kdrubin",
+    "user_id": "ering",
+    "friend_id": "kdrubin",
+    "requester_id": "kdrubin",
+    "status": "accepted",
+    "accepted_at": "2025-07-02T11:35:36.212268+00:00"
+  },
+  {
+    "id": "ering|hbähr",
+    "user_id": "ering",
+    "friend_id": "hbähr",
+    "requester_id": "ering",
+    "status": "accepted",
+    "accepted_at": "2025-06-12T11:42:52.507351+00:00"
+  },
+  {
+    "id": "ahöfig|ering",
+    "user_id": "ering",
+    "friend_id": "ahöfig",
+    "requester_id": "ering",
+    "status": "accepted",
+    "accepted_at": "2025-05-13T14:51:03.084050+00:00"
+  },
+  {
+    "id": "ehellwig|yhofmann",
+    "user_id": "yhofmann",
+    "friend_id": "ehellwig",
+    "requester_id": "ehellwig",
+    "status": "accepted",
+    "accepted_at": "2024-11-08T11:11:19.819242+00:00"
+  },
+  {
+    "id": "kdrubin|yhofmann",
+    "user_id": "yhofmann",
+    "friend_id": "kdrubin",
+    "requester_id": "yhofmann",
+    "status": "accepted",
+    "accepted_at": "2024-10-25T23:48:50.152204+00:00"
+  },
+  {
+    "id": "hbähr|yhofmann",
+    "user_id": "yhofmann",
+    "friend_id": "hbähr",
+    "requester_id": "hbähr",
+    "status": "accepted",
+    "accepted_at": "2025-01-30T15:10:46.293632+00:00"
+  },
+  {
+    "id": "ahöfig|yhofmann",
+    "user_id": "yhofmann",
+    "friend_id": "ahöfig",
+    "requester_id": "ahöfig",
+    "status": "accepted",
+    "accepted_at": "2024-12-05T12:46:19.877413+00:00"
+  },
+  {
+    "id": "stlustek|yhofmann",
+    "user_id": "yhofmann",
+    "friend_id": "stlustek",
+    "requester_id": "stlustek",
+    "status": "accepted",
+    "accepted_at": "2024-11-28T16:28:28.396368+00:00"
+  },
+  {
+    "id": "sneureuther|yhofmann",
+    "user_id": "yhofmann",
+    "friend_id": "sneureuther",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2024-11-08T20:37:11.448290+00:00"
+  },
+  {
+    "id": "fkusch|yhofmann",
+    "user_id": "yhofmann",
+    "friend_id": "fkusch",
+    "requester_id": "yhofmann",
+    "status": "accepted",
+    "accepted_at": "2024-11-24T02:04:02.065718+00:00"
+  },
+  {
+    "id": "ehellwig|kdrubin",
+    "user_id": "ehellwig",
+    "friend_id": "kdrubin",
+    "requester_id": "ehellwig",
+    "status": "accepted",
+    "accepted_at": "2025-03-01T00:23:05.499328+00:00"
+  },
+  {
+    "id": "ehellwig|hbähr",
+    "user_id": "ehellwig",
+    "friend_id": "hbähr",
+    "requester_id": "ehellwig",
+    "status": "accepted",
+    "accepted_at": "2025-08-05T22:19:05.153242+00:00"
+  },
+  {
+    "id": "ahöfig|ehellwig",
+    "user_id": "ehellwig",
+    "friend_id": "ahöfig",
+    "requester_id": "ehellwig",
+    "status": "accepted",
+    "accepted_at": "2025-03-13T19:12:17.896507+00:00"
+  },
+  {
+    "id": "ehellwig|stlustek",
+    "user_id": "ehellwig",
+    "friend_id": "stlustek",
+    "requester_id": "ehellwig",
+    "status": "accepted",
+    "accepted_at": "2025-01-08T12:16:45.550416+00:00"
+  },
+  {
+    "id": "ehellwig|jwiek",
+    "user_id": "ehellwig",
+    "friend_id": "jwiek",
+    "requester_id": "jwiek",
+    "status": "accepted",
+    "accepted_at": "2025-05-25T19:36:31.837603+00:00"
+  },
+  {
+    "id": "hbähr|kdrubin",
+    "user_id": "kdrubin",
+    "friend_id": "hbähr",
+    "requester_id": "hbähr",
+    "status": "accepted",
+    "accepted_at": "2025-02-07T14:51:14.324231+00:00"
+  },
+  {
+    "id": "kdrubin|stlustek",
+    "user_id": "kdrubin",
+    "friend_id": "stlustek",
+    "requester_id": "stlustek",
+    "status": "accepted",
+    "accepted_at": "2025-08-14T08:32:54.028098+00:00"
+  },
+  {
+    "id": "jwiek|kdrubin",
+    "user_id": "kdrubin",
+    "friend_id": "jwiek",
+    "requester_id": "kdrubin",
+    "status": "accepted",
+    "accepted_at": "2025-06-18T11:07:49.220228+00:00"
+  },
+  {
+    "id": "kdrubin|tkostolzin",
+    "user_id": "kdrubin",
+    "friend_id": "tkostolzin",
+    "requester_id": "tkostolzin",
+    "status": "accepted",
+    "accepted_at": "2025-04-07T22:18:42.277965+00:00"
+  },
+  {
+    "id": "ahöfig|hbähr",
+    "user_id": "hbähr",
+    "friend_id": "ahöfig",
+    "requester_id": "hbähr",
+    "status": "accepted",
+    "accepted_at": "2025-05-29T06:03:49.977463+00:00"
+  },
+  {
+    "id": "hbähr|stlustek",
+    "user_id": "hbähr",
+    "friend_id": "stlustek",
+    "requester_id": "hbähr",
+    "status": "accepted",
+    "accepted_at": "2024-11-01T16:03:16.494100+00:00"
+  },
+  {
+    "id": "hbähr|jwiek",
+    "user_id": "hbähr",
+    "friend_id": "jwiek",
+    "requester_id": "hbähr",
+    "status": "accepted",
+    "accepted_at": "2024-11-19T12:04:29.993446+00:00"
+  },
+  {
+    "id": "hbähr|tkostolzin",
+    "user_id": "hbähr",
+    "friend_id": "tkostolzin",
+    "requester_id": "tkostolzin",
+    "status": "accepted",
+    "accepted_at": "2025-02-13T00:41:18.457414+00:00"
+  },
+  {
+    "id": "hbähr|lscholz",
+    "user_id": "hbähr",
+    "friend_id": "lscholz",
+    "requester_id": "lscholz",
+    "status": "accepted",
+    "accepted_at": "2024-12-28T13:39:26.147340+00:00"
+  },
+  {
+    "id": "ahöfig|stlustek",
+    "user_id": "ahöfig",
+    "friend_id": "stlustek",
+    "requester_id": "stlustek",
+    "status": "accepted",
+    "accepted_at": "2024-11-14T23:17:53.440786+00:00"
+  },
+  {
+    "id": "ahöfig|jwiek",
+    "user_id": "ahöfig",
+    "friend_id": "jwiek",
+    "requester_id": "jwiek",
+    "status": "accepted",
+    "accepted_at": "2024-10-18T14:35:50.426279+00:00"
+  },
+  {
+    "id": "ahöfig|tkostolzin",
+    "user_id": "ahöfig",
+    "friend_id": "tkostolzin",
+    "requester_id": "ahöfig",
+    "status": "accepted",
+    "accepted_at": "2025-08-01T23:56:55.114828+00:00"
+  },
+  {
+    "id": "ahöfig|lscholz",
+    "user_id": "ahöfig",
+    "friend_id": "lscholz",
+    "requester_id": "ahöfig",
+    "status": "accepted",
+    "accepted_at": "2025-02-01T21:22:19.005142+00:00"
+  },
+  {
+    "id": "aherrmann|ahöfig",
+    "user_id": "ahöfig",
+    "friend_id": "aherrmann",
+    "requester_id": "ahöfig",
+    "status": "accepted",
+    "accepted_at": "2025-01-09T20:39:37.699531+00:00"
+  },
+  {
+    "id": "jwiek|stlustek",
+    "user_id": "stlustek",
+    "friend_id": "jwiek",
+    "requester_id": "stlustek",
+    "status": "accepted",
+    "accepted_at": "2024-11-02T05:55:54.667569+00:00"
+  },
+  {
+    "id": "stlustek|tkostolzin",
+    "user_id": "stlustek",
+    "friend_id": "tkostolzin",
+    "requester_id": "tkostolzin",
+    "status": "accepted",
+    "accepted_at": "2025-07-24T10:29:39.420320+00:00"
+  },
+  {
+    "id": "lscholz|stlustek",
+    "user_id": "stlustek",
+    "friend_id": "lscholz",
+    "requester_id": "stlustek",
+    "status": "accepted",
+    "accepted_at": "2025-02-03T03:11:04.679115+00:00"
+  },
+  {
+    "id": "aherrmann|stlustek",
+    "user_id": "stlustek",
+    "friend_id": "aherrmann",
+    "requester_id": "aherrmann",
+    "status": "accepted",
+    "accepted_at": "2025-05-22T00:24:30.383244+00:00"
+  },
+  {
+    "id": "mbolnbach|stlustek",
+    "user_id": "stlustek",
+    "friend_id": "mbolnbach",
+    "requester_id": "stlustek",
+    "status": "accepted",
+    "accepted_at": "2025-02-26T09:24:31.110326+00:00"
+  },
+  {
+    "id": "jwiek|tkostolzin",
+    "user_id": "jwiek",
+    "friend_id": "tkostolzin",
+    "requester_id": "jwiek",
+    "status": "accepted",
+    "accepted_at": "2025-04-09T21:58:56.388068+00:00"
+  },
+  {
+    "id": "jwiek|lscholz",
+    "user_id": "jwiek",
+    "friend_id": "lscholz",
+    "requester_id": "jwiek",
+    "status": "accepted",
+    "accepted_at": "2024-11-15T12:32:27.043564+00:00"
+  },
+  {
+    "id": "aherrmann|jwiek",
+    "user_id": "jwiek",
+    "friend_id": "aherrmann",
+    "requester_id": "jwiek",
+    "status": "accepted",
+    "accepted_at": "2025-07-06T21:09:07.111946+00:00"
+  },
+  {
+    "id": "jwiek|mbolnbach",
+    "user_id": "jwiek",
+    "friend_id": "mbolnbach",
+    "requester_id": "mbolnbach",
+    "status": "accepted",
+    "accepted_at": "2025-02-21T22:15:43.412092+00:00"
+  },
+  {
+    "id": "hadolph|jwiek",
+    "user_id": "jwiek",
+    "friend_id": "hadolph",
+    "requester_id": "jwiek",
+    "status": "accepted",
+    "accepted_at": "2024-11-18T03:51:30.084661+00:00"
+  },
+  {
+    "id": "ddehmel|jwiek",
+    "user_id": "jwiek",
+    "friend_id": "ddehmel",
+    "requester_id": "jwiek",
+    "status": "accepted",
+    "accepted_at": "2025-04-24T16:43:53.975015+00:00"
+  },
+  {
+    "id": "lscholz|tkostolzin",
+    "user_id": "tkostolzin",
+    "friend_id": "lscholz",
+    "requester_id": "lscholz",
+    "status": "accepted",
+    "accepted_at": "2025-06-28T23:06:06.236928+00:00"
+  },
+  {
+    "id": "aherrmann|tkostolzin",
+    "user_id": "tkostolzin",
+    "friend_id": "aherrmann",
+    "requester_id": "aherrmann",
+    "status": "accepted",
+    "accepted_at": "2025-06-27T04:15:00.880614+00:00"
+  },
+  {
+    "id": "mbolnbach|tkostolzin",
+    "user_id": "tkostolzin",
+    "friend_id": "mbolnbach",
+    "requester_id": "mbolnbach",
+    "status": "accepted",
+    "accepted_at": "2025-06-14T13:38:14.295071+00:00"
+  },
+  {
+    "id": "hadolph|tkostolzin",
+    "user_id": "tkostolzin",
+    "friend_id": "hadolph",
+    "requester_id": "tkostolzin",
+    "status": "accepted",
+    "accepted_at": "2024-12-11T01:29:47.816312+00:00"
+  },
+  {
+    "id": "tkostolzin|uklemt",
+    "user_id": "tkostolzin",
+    "friend_id": "uklemt",
+    "requester_id": "uklemt",
+    "status": "accepted",
+    "accepted_at": "2025-07-29T20:52:00.540599+00:00"
+  },
+  {
+    "id": "aherrmann|lscholz",
+    "user_id": "lscholz",
+    "friend_id": "aherrmann",
+    "requester_id": "lscholz",
+    "status": "accepted",
+    "accepted_at": "2025-07-14T21:35:50.413886+00:00"
+  },
+  {
+    "id": "lscholz|mbolnbach",
+    "user_id": "lscholz",
+    "friend_id": "mbolnbach",
+    "requester_id": "mbolnbach",
+    "status": "accepted",
+    "accepted_at": "2025-08-06T01:03:31.731411+00:00"
+  },
+  {
+    "id": "hadolph|lscholz",
+    "user_id": "lscholz",
+    "friend_id": "hadolph",
+    "requester_id": "hadolph",
+    "status": "accepted",
+    "accepted_at": "2025-06-12T04:09:36.767557+00:00"
+  },
+  {
+    "id": "lscholz|uklemt",
+    "user_id": "lscholz",
+    "friend_id": "uklemt",
+    "requester_id": "lscholz",
+    "status": "accepted",
+    "accepted_at": "2025-05-29T23:41:30.974140+00:00"
+  },
+  {
+    "id": "hsöding|lscholz",
+    "user_id": "lscholz",
+    "friend_id": "hsöding",
+    "requester_id": "hsöding",
+    "status": "accepted",
+    "accepted_at": "2025-01-15T21:27:42.325169+00:00"
+  },
+  {
+    "id": "aherrmann|mbolnbach",
+    "user_id": "aherrmann",
+    "friend_id": "mbolnbach",
+    "requester_id": "aherrmann",
+    "status": "accepted",
+    "accepted_at": "2025-02-24T12:25:05.568886+00:00"
+  },
+  {
+    "id": "aherrmann|hadolph",
+    "user_id": "aherrmann",
+    "friend_id": "hadolph",
+    "requester_id": "hadolph",
+    "status": "accepted",
+    "accepted_at": "2025-02-22T07:15:19.874744+00:00"
+  },
+  {
+    "id": "aherrmann|uklemt",
+    "user_id": "aherrmann",
+    "friend_id": "uklemt",
+    "requester_id": "uklemt",
+    "status": "accepted",
+    "accepted_at": "2025-09-19T01:36:35.560274+00:00"
+  },
+  {
+    "id": "aherrmann|hsöding",
+    "user_id": "aherrmann",
+    "friend_id": "hsöding",
+    "requester_id": "aherrmann",
+    "status": "accepted",
+    "accepted_at": "2024-11-17T00:27:57.043275+00:00"
+  },
+  {
+    "id": "aherrmann|rmude",
+    "user_id": "aherrmann",
+    "friend_id": "rmude",
+    "requester_id": "rmude",
+    "status": "accepted",
+    "accepted_at": "2025-03-20T10:04:46.387630+00:00"
+  },
+  {
+    "id": "mbolnbach|uklemt",
+    "user_id": "mbolnbach",
+    "friend_id": "uklemt",
+    "requester_id": "mbolnbach",
+    "status": "accepted",
+    "accepted_at": "2024-10-12T09:27:01.029995+00:00"
+  },
+  {
+    "id": "hsöding|mbolnbach",
+    "user_id": "mbolnbach",
+    "friend_id": "hsöding",
+    "requester_id": "hsöding",
+    "status": "accepted",
+    "accepted_at": "2025-04-30T03:27:08.951516+00:00"
+  },
+  {
+    "id": "mbolnbach|rmude",
+    "user_id": "mbolnbach",
+    "friend_id": "rmude",
+    "requester_id": "mbolnbach",
+    "status": "accepted",
+    "accepted_at": "2025-05-24T02:52:08.443226+00:00"
+  },
+  {
+    "id": "mbolnbach|sneureuther",
+    "user_id": "mbolnbach",
+    "friend_id": "sneureuther",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2024-10-12T13:45:36.707648+00:00"
+  },
+  {
+    "id": "hadolph|uklemt",
+    "user_id": "hadolph",
+    "friend_id": "uklemt",
+    "requester_id": "uklemt",
+    "status": "accepted",
+    "accepted_at": "2025-01-13T14:51:46.631300+00:00"
+  },
+  {
+    "id": "hadolph|rmude",
+    "user_id": "hadolph",
+    "friend_id": "rmude",
+    "requester_id": "rmude",
+    "status": "accepted",
+    "accepted_at": "2025-03-05T21:59:19.275434+00:00"
+  },
+  {
+    "id": "ehaering|hadolph",
+    "user_id": "hadolph",
+    "friend_id": "ehaering",
+    "requester_id": "ehaering",
+    "status": "accepted",
+    "accepted_at": "2024-11-10T01:54:02.186714+00:00"
+  },
+  {
+    "id": "awesack|hadolph",
+    "user_id": "hadolph",
+    "friend_id": "awesack",
+    "requester_id": "awesack",
+    "status": "accepted",
+    "accepted_at": "2025-06-23T09:56:28.633566+00:00"
+  },
+  {
+    "id": "sneureuther|uklemt",
+    "user_id": "uklemt",
+    "friend_id": "sneureuther",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2025-03-14T13:15:34.239444+00:00"
+  },
+  {
+    "id": "ehaering|uklemt",
+    "user_id": "uklemt",
+    "friend_id": "ehaering",
+    "requester_id": "uklemt",
+    "status": "accepted",
+    "accepted_at": "2025-03-13T22:08:15.779325+00:00"
+  },
+  {
+    "id": "hfritsch|uklemt",
+    "user_id": "uklemt",
+    "friend_id": "hfritsch",
+    "requester_id": "uklemt",
+    "status": "accepted",
+    "accepted_at": "2024-11-05T16:19:10.714572+00:00"
+  },
+  {
+    "id": "gwohlgemut|uklemt",
+    "user_id": "uklemt",
+    "friend_id": "gwohlgemut",
+    "requester_id": "gwohlgemut",
+    "status": "accepted",
+    "accepted_at": "2024-10-25T08:19:56.036661+00:00"
+  },
+  {
+    "id": "uklemt|utröst",
+    "user_id": "uklemt",
+    "friend_id": "utröst",
+    "requester_id": "uklemt",
+    "status": "accepted",
+    "accepted_at": "2025-08-29T22:12:19.654200+00:00"
+  },
+  {
+    "id": "hsöding|rmude",
+    "user_id": "hsöding",
+    "friend_id": "rmude",
+    "requester_id": "hsöding",
+    "status": "accepted",
+    "accepted_at": "2025-04-04T20:51:44.523658+00:00"
+  },
+  {
+    "id": "hsöding|sneureuther",
+    "user_id": "hsöding",
+    "friend_id": "sneureuther",
+    "requester_id": "hsöding",
+    "status": "accepted",
+    "accepted_at": "2024-12-28T05:08:58.761397+00:00"
+  },
+  {
+    "id": "ehaering|hsöding",
+    "user_id": "hsöding",
+    "friend_id": "ehaering",
+    "requester_id": "ehaering",
+    "status": "accepted",
+    "accepted_at": "2025-03-15T12:43:32.191012+00:00"
+  },
+  {
+    "id": "hfritsch|hsöding",
+    "user_id": "hsöding",
+    "friend_id": "hfritsch",
+    "requester_id": "hfritsch",
+    "status": "accepted",
+    "accepted_at": "2025-03-09T23:43:35.805454+00:00"
+  },
+  {
+    "id": "gwohlgemut|hsöding",
+    "user_id": "hsöding",
+    "friend_id": "gwohlgemut",
+    "requester_id": "gwohlgemut",
+    "status": "accepted",
+    "accepted_at": "2025-04-14T21:49:39.501064+00:00"
+  },
+  {
+    "id": "rmude|sneureuther",
+    "user_id": "rmude",
+    "friend_id": "sneureuther",
+    "requester_id": "rmude",
+    "status": "accepted",
+    "accepted_at": "2025-07-24T01:41:19.601443+00:00"
+  },
+  {
+    "id": "ehaering|rmude",
+    "user_id": "rmude",
+    "friend_id": "ehaering",
+    "requester_id": "rmude",
+    "status": "accepted",
+    "accepted_at": "2025-08-17T12:51:08.220617+00:00"
+  },
+  {
+    "id": "hfritsch|rmude",
+    "user_id": "rmude",
+    "friend_id": "hfritsch",
+    "requester_id": "hfritsch",
+    "status": "accepted",
+    "accepted_at": "2025-08-14T15:27:26.505068+00:00"
+  },
+  {
+    "id": "gwohlgemut|rmude",
+    "user_id": "rmude",
+    "friend_id": "gwohlgemut",
+    "requester_id": "rmude",
+    "status": "accepted",
+    "accepted_at": "2025-03-06T05:10:32.302344+00:00"
+  },
+  {
+    "id": "fmüller|rmude",
+    "user_id": "rmude",
+    "friend_id": "fmüller",
+    "requester_id": "fmüller",
+    "status": "accepted",
+    "accepted_at": "2024-12-01T02:11:59.523272+00:00"
+  },
+  {
+    "id": "ehaering|sneureuther",
+    "user_id": "sneureuther",
+    "friend_id": "ehaering",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2024-11-09T15:51:45.076696+00:00"
+  },
+  {
+    "id": "hfritsch|sneureuther",
+    "user_id": "sneureuther",
+    "friend_id": "hfritsch",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2024-10-17T14:20:59.140753+00:00"
+  },
+  {
+    "id": "fmüller|sneureuther",
+    "user_id": "sneureuther",
+    "friend_id": "fmüller",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2025-10-08T18:59:41.194938+00:00"
+  },
+  {
+    "id": "aplath|sneureuther",
+    "user_id": "sneureuther",
+    "friend_id": "aplath",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2024-11-09T11:00:28.034090+00:00"
+  },
+  {
+    "id": "smohaupt|sneureuther",
+    "user_id": "sneureuther",
+    "friend_id": "smohaupt",
+    "requester_id": "sneureuther",
+    "status": "accepted",
+    "accepted_at": "2024-11-22T00:29:01.010841+00:00"
+  },
+  {
+    "id": "ehaering|hfritsch",
+    "user_id": "ehaering",
+    "friend_id": "hfritsch",
+    "requester_id": "hfritsch",
+    "status": "accepted",
+    "accepted_at": "2025-06-23T11:54:10.666829+00:00"
+  },
+  {
+    "id": "ehaering|gwohlgemut",
+    "user_id": "ehaering",
+    "friend_id": "gwohlgemut",
+    "requester_id": "ehaering",
+    "status": "accepted",
+    "accepted_at": "2025-07-23T12:07:35.780280+00:00"
+  },
+  {
+    "id": "ehaering|fmüller",
+    "user_id": "ehaering",
+    "friend_id": "fmüller",
+    "requester_id": "fmüller",
+    "status": "accepted",
+    "accepted_at": "2024-12-25T03:53:31.017972+00:00"
+  },
+  {
+    "id": "aplath|ehaering",
+    "user_id": "ehaering",
+    "friend_id": "aplath",
+    "requester_id": "aplath",
+    "status": "accepted",
+    "accepted_at": "2025-07-24T19:52:06.315972+00:00"
+  },
+  {
+    "id": "ehaering|istumpf",
+    "user_id": "ehaering",
+    "friend_id": "istumpf",
+    "requester_id": "istumpf",
+    "status": "accepted",
+    "accepted_at": "2024-10-31T22:37:45.821735+00:00"
+  },
+  {
+    "id": "ehaering|hfaust",
+    "user_id": "ehaering",
+    "friend_id": "hfaust",
+    "requester_id": "ehaering",
+    "status": "accepted",
+    "accepted_at": "2025-03-08T07:55:02.470490+00:00"
+  },
+  {
+    "id": "gwohlgemut|hfritsch",
+    "user_id": "hfritsch",
+    "friend_id": "gwohlgemut",
+    "requester_id": "hfritsch",
+    "status": "accepted",
+    "accepted_at": "2025-05-25T17:45:03.315440+00:00"
+  },
+  {
+    "id": "fmüller|hfritsch",
+    "user_id": "hfritsch",
+    "friend_id": "fmüller",
+    "requester_id": "fmüller",
+    "status": "accepted",
+    "accepted_at": "2025-04-18T09:56:49.990779+00:00"
+  },
+  {
+    "id": "hfritsch|kkoch",
+    "user_id": "hfritsch",
+    "friend_id": "kkoch",
+    "requester_id": "hfritsch",
+    "status": "accepted",
+    "accepted_at": "2024-10-29T04:00:15.596784+00:00"
+  },
+  {
+    "id": "fkusch|hfritsch",
+    "user_id": "hfritsch",
+    "friend_id": "fkusch",
+    "requester_id": "fkusch",
+    "status": "accepted",
+    "accepted_at": "2025-05-07T23:56:46.875825+00:00"
+  },
+  {
+    "id": "fmüller|gwohlgemut",
+    "user_id": "gwohlgemut",
+    "friend_id": "fmüller",
+    "requester_id": "gwohlgemut",
+    "status": "accepted",
+    "accepted_at": "2024-12-09T23:36:19.098995+00:00"
+  },
+  {
+    "id": "aplath|gwohlgemut",
+    "user_id": "gwohlgemut",
+    "friend_id": "aplath",
+    "requester_id": "gwohlgemut",
+    "status": "accepted",
+    "accepted_at": "2025-06-25T20:36:11.305775+00:00"
+  },
+  {
+    "id": "fkusch|gwohlgemut",
+    "user_id": "gwohlgemut",
+    "friend_id": "fkusch",
+    "requester_id": "gwohlgemut",
+    "status": "accepted",
+    "accepted_at": "2025-04-27T21:13:53.098950+00:00"
+  },
+  {
+    "id": "gwohlgemut|phenck",
+    "user_id": "gwohlgemut",
+    "friend_id": "phenck",
+    "requester_id": "gwohlgemut",
+    "status": "accepted",
+    "accepted_at": "2025-03-05T19:12:10.971594+00:00"
+  },
+  {
+    "id": "aplath|fmüller",
+    "user_id": "fmüller",
+    "friend_id": "aplath",
+    "requester_id": "fmüller",
+    "status": "accepted",
+    "accepted_at": "2024-10-16T17:13:17.582492+00:00"
+  },
+  {
+    "id": "fkusch|fmüller",
+    "user_id": "fmüller",
+    "friend_id": "fkusch",
+    "requester_id": "fkusch",
+    "status": "accepted",
+    "accepted_at": "2024-11-03T12:42:18.031479+00:00"
+  },
+  {
+    "id": "fmüller|phenck",
+    "user_id": "fmüller",
+    "friend_id": "phenck",
+    "requester_id": "fmüller",
+    "status": "accepted",
+    "accepted_at": "2025-09-20T09:43:03.087404+00:00"
+  },
+  {
+    "id": "fmüller|sbeer",
+    "user_id": "fmüller",
+    "friend_id": "sbeer",
+    "requester_id": "fmüller",
+    "status": "accepted",
+    "accepted_at": "2025-09-02T14:12:05.503328+00:00"
+  },
+  {
+    "id": "aplath|kkoch",
+    "user_id": "aplath",
+    "friend_id": "kkoch",
+    "requester_id": "aplath",
+    "status": "accepted",
+    "accepted_at": "2025-03-18T02:17:34.669072+00:00"
+  },
+  {
+    "id": "aplath|fkusch",
+    "user_id": "aplath",
+    "friend_id": "fkusch",
+    "requester_id": "aplath",
+    "status": "accepted",
+    "accepted_at": "2025-03-19T00:50:25.766511+00:00"
+  },
+  {
+    "id": "aplath|phenck",
+    "user_id": "aplath",
+    "friend_id": "phenck",
+    "requester_id": "aplath",
+    "status": "accepted",
+    "accepted_at": "2024-11-29T08:50:53.234613+00:00"
+  },
+  {
+    "id": "aplath|sbeer",
+    "user_id": "aplath",
+    "friend_id": "sbeer",
+    "requester_id": "sbeer",
+    "status": "accepted",
+    "accepted_at": "2025-04-09T22:23:27.649130+00:00"
+  },
+  {
+    "id": "aplath|sscholz",
+    "user_id": "aplath",
+    "friend_id": "sscholz",
+    "requester_id": "sscholz",
+    "status": "accepted",
+    "accepted_at": "2025-06-09T09:44:14.489579+00:00"
+  },
+  {
+    "id": "fkusch|kkoch",
+    "user_id": "kkoch",
+    "friend_id": "fkusch",
+    "requester_id": "kkoch",
+    "status": "accepted",
+    "accepted_at": "2025-09-01T11:11:25.194244+00:00"
+  },
+  {
+    "id": "kkoch|phenck",
+    "user_id": "kkoch",
+    "friend_id": "phenck",
+    "requester_id": "kkoch",
+    "status": "accepted",
+    "accepted_at": "2025-04-21T17:31:57.757808+00:00"
+  },
+  {
+    "id": "kkoch|sbeer",
+    "user_id": "kkoch",
+    "friend_id": "sbeer",
+    "requester_id": "sbeer",
+    "status": "accepted",
+    "accepted_at": "2025-09-02T07:00:48.443071+00:00"
+  },
+  {
+    "id": "kkoch|sscholz",
+    "user_id": "kkoch",
+    "friend_id": "sscholz",
+    "requester_id": "kkoch",
+    "status": "accepted",
+    "accepted_at": "2025-01-23T18:32:23.157127+00:00"
+  },
+  {
+    "id": "awesack|kkoch",
+    "user_id": "kkoch",
+    "friend_id": "awesack",
+    "requester_id": "awesack",
+    "status": "accepted",
+    "accepted_at": "2025-04-15T02:05:59.252427+00:00"
+  },
+  {
+    "id": "ihornich|kkoch",
+    "user_id": "kkoch",
+    "friend_id": "ihornich",
+    "requester_id": "kkoch",
+    "status": "accepted",
+    "accepted_at": "2025-08-20T20:16:04.838653+00:00"
+  },
+  {
+    "id": "fkusch|phenck",
+    "user_id": "fkusch",
+    "friend_id": "phenck",
+    "requester_id": "fkusch",
+    "status": "accepted",
+    "accepted_at": "2024-12-07T20:02:02.309912+00:00"
+  },
+  {
+    "id": "fkusch|sbeer",
+    "user_id": "fkusch",
+    "friend_id": "sbeer",
+    "requester_id": "sbeer",
+    "status": "accepted",
+    "accepted_at": "2025-09-03T19:09:00.109553+00:00"
+  },
+  {
+    "id": "fkusch|sscholz",
+    "user_id": "fkusch",
+    "friend_id": "sscholz",
+    "requester_id": "sscholz",
+    "status": "accepted",
+    "accepted_at": "2025-02-01T08:42:27.315962+00:00"
+  },
+  {
+    "id": "awesack|fkusch",
+    "user_id": "fkusch",
+    "friend_id": "awesack",
+    "requester_id": "awesack",
+    "status": "accepted",
+    "accepted_at": "2024-12-19T09:15:20.392835+00:00"
+  },
+  {
+    "id": "phenck|sbeer",
+    "user_id": "phenck",
+    "friend_id": "sbeer",
+    "requester_id": "sbeer",
+    "status": "accepted",
+    "accepted_at": "2024-12-26T02:11:20.440897+00:00"
+  },
+  {
+    "id": "phenck|sscholz",
+    "user_id": "phenck",
+    "friend_id": "sscholz",
+    "requester_id": "sscholz",
+    "status": "accepted",
+    "accepted_at": "2025-04-29T02:45:48.775560+00:00"
+  },
+  {
+    "id": "awesack|phenck",
+    "user_id": "phenck",
+    "friend_id": "awesack",
+    "requester_id": "phenck",
+    "status": "accepted",
+    "accepted_at": "2025-09-07T08:31:36.643367+00:00"
+  },
+  {
+    "id": "pbörner|phenck",
+    "user_id": "phenck",
+    "friend_id": "pbörner",
+    "requester_id": "pbörner",
+    "status": "accepted",
+    "accepted_at": "2025-05-24T04:04:01.048155+00:00"
+  },
+  {
+    "id": "phenck|rharloff",
+    "user_id": "phenck",
+    "friend_id": "rharloff",
+    "requester_id": "phenck",
+    "status": "accepted",
+    "accepted_at": "2025-09-04T14:17:53.622883+00:00"
+  },
+  {
+    "id": "sbeer|sscholz",
+    "user_id": "sbeer",
+    "friend_id": "sscholz",
+    "requester_id": "sbeer",
+    "status": "accepted",
+    "accepted_at": "2025-09-12T12:10:27.234958+00:00"
+  },
+  {
+    "id": "awesack|sbeer",
+    "user_id": "sbeer",
+    "friend_id": "awesack",
+    "requester_id": "sbeer",
+    "status": "accepted",
+    "accepted_at": "2024-11-15T22:18:43.462172+00:00"
+  },
+  {
+    "id": "rharloff|sbeer",
+    "user_id": "sbeer",
+    "friend_id": "rharloff",
+    "requester_id": "rharloff",
+    "status": "accepted",
+    "accepted_at": "2025-03-29T08:45:10.498536+00:00"
+  },
+  {
+    "id": "istumpf|sbeer",
+    "user_id": "sbeer",
+    "friend_id": "istumpf",
+    "requester_id": "istumpf",
+    "status": "accepted",
+    "accepted_at": "2025-09-20T09:13:31.153848+00:00"
+  },
+  {
+    "id": "awesack|sscholz",
+    "user_id": "sscholz",
+    "friend_id": "awesack",
+    "requester_id": "awesack",
+    "status": "accepted",
+    "accepted_at": "2024-11-12T18:44:46.769910+00:00"
+  },
+  {
+    "id": "pbörner|sscholz",
+    "user_id": "sscholz",
+    "friend_id": "pbörner",
+    "requester_id": "pbörner",
+    "status": "accepted",
+    "accepted_at": "2025-01-28T20:06:26.042176+00:00"
+  },
+  {
+    "id": "rharloff|sscholz",
+    "user_id": "sscholz",
+    "friend_id": "rharloff",
+    "requester_id": "sscholz",
+    "status": "accepted",
+    "accepted_at": "2025-04-19T22:31:45.577998+00:00"
+  },
+  {
+    "id": "istumpf|sscholz",
+    "user_id": "sscholz",
+    "friend_id": "istumpf",
+    "requester_id": "istumpf",
+    "status": "accepted",
+    "accepted_at": "2025-09-21T16:34:46.365060+00:00"
+  },
+  {
+    "id": "awesack|pbörner",
+    "user_id": "awesack",
+    "friend_id": "pbörner",
+    "requester_id": "awesack",
+    "status": "accepted",
+    "accepted_at": "2025-03-01T06:31:08.558914+00:00"
+  },
+  {
+    "id": "awesack|rharloff",
+    "user_id": "awesack",
+    "friend_id": "rharloff",
+    "requester_id": "rharloff",
+    "status": "accepted",
+    "accepted_at": "2025-04-08T12:01:28.144529+00:00"
+  },
+  {
+    "id": "awesack|istumpf",
+    "user_id": "awesack",
+    "friend_id": "istumpf",
+    "requester_id": "awesack",
+    "status": "accepted",
+    "accepted_at": "2025-03-16T13:16:48.395180+00:00"
+  },
+  {
+    "id": "awesack|utröst",
+    "user_id": "awesack",
+    "friend_id": "utröst",
+    "requester_id": "utröst",
+    "status": "accepted",
+    "accepted_at": "2024-11-22T02:01:55.756150+00:00"
+  },
+  {
+    "id": "pbörner|rharloff",
+    "user_id": "pbörner",
+    "friend_id": "rharloff",
+    "requester_id": "pbörner",
+    "status": "accepted",
+    "accepted_at": "2025-08-24T05:17:05.395723+00:00"
+  },
+  {
+    "id": "istumpf|pbörner",
+    "user_id": "pbörner",
+    "friend_id": "istumpf",
+    "requester_id": "pbörner",
+    "status": "accepted",
+    "accepted_at": "2025-06-04T01:41:41.156686+00:00"
+  },
+  {
+    "id": "pbörner|utröst",
+    "user_id": "pbörner",
+    "friend_id": "utröst",
+    "requester_id": "utröst",
+    "status": "accepted",
+    "accepted_at": "2025-07-27T13:27:45.021594+00:00"
+  },
+  {
+    "id": "pbörner|smohaupt",
+    "user_id": "pbörner",
+    "friend_id": "smohaupt",
+    "requester_id": "smohaupt",
+    "status": "accepted",
+    "accepted_at": "2025-07-31T12:51:47.781754+00:00"
+  },
+  {
+    "id": "mstaude|pbörner",
+    "user_id": "pbörner",
+    "friend_id": "mstaude",
+    "requester_id": "mstaude",
+    "status": "accepted",
+    "accepted_at": "2024-10-19T11:19:44.971840+00:00"
+  },
+  {
+    "id": "istumpf|rharloff",
+    "user_id": "rharloff",
+    "friend_id": "istumpf",
+    "requester_id": "istumpf",
+    "status": "accepted",
+    "accepted_at": "2025-08-29T14:19:41.520983+00:00"
+  },
+  {
+    "id": "rharloff|utröst",
+    "user_id": "rharloff",
+    "friend_id": "utröst",
+    "requester_id": "rharloff",
+    "status": "accepted",
+    "accepted_at": "2025-04-26T20:56:48.404388+00:00"
+  },
+  {
+    "id": "mstaude|rharloff",
+    "user_id": "rharloff",
+    "friend_id": "mstaude",
+    "requester_id": "mstaude",
+    "status": "accepted",
+    "accepted_at": "2024-10-26T06:26:04.009063+00:00"
+  },
+  {
+    "id": "nwesack|rharloff",
+    "user_id": "rharloff",
+    "friend_id": "nwesack",
+    "requester_id": "nwesack",
+    "status": "accepted",
+    "accepted_at": "2025-03-09T07:05:10.727651+00:00"
+  },
+  {
+    "id": "istumpf|nwesack",
+    "user_id": "istumpf",
+    "friend_id": "nwesack",
+    "requester_id": "istumpf",
+    "status": "accepted",
+    "accepted_at": "2025-05-06T19:02:11.109682+00:00"
+  },
+  {
+    "id": "istumpf|jbuchholz",
+    "user_id": "istumpf",
+    "friend_id": "jbuchholz",
+    "requester_id": "istumpf",
+    "status": "accepted",
+    "accepted_at": "2025-02-05T18:36:32.869508+00:00"
+  },
+  {
+    "id": "istumpf|utröst",
+    "user_id": "istumpf",
+    "friend_id": "utröst",
+    "requester_id": "utröst",
+    "status": "accepted",
+    "accepted_at": "2025-07-24T22:47:24.796895+00:00"
+  },
+  {
+    "id": "aschweitzer|istumpf",
+    "user_id": "istumpf",
+    "friend_id": "aschweitzer",
+    "requester_id": "aschweitzer",
+    "status": "accepted",
+    "accepted_at": "2025-08-21T07:06:55.298735+00:00"
+  },
+  {
+    "id": "smohaupt|utröst",
+    "user_id": "utröst",
+    "friend_id": "smohaupt",
+    "requester_id": "smohaupt",
+    "status": "accepted",
+    "accepted_at": "2025-01-16T00:13:31.412972+00:00"
+  },
+  {
+    "id": "nwesack|utröst",
+    "user_id": "utröst",
+    "friend_id": "nwesack",
+    "requester_id": "utröst",
+    "status": "accepted",
+    "accepted_at": "2024-11-29T20:49:42.480797+00:00"
+  },
+  {
+    "id": "jbuchholz|utröst",
+    "user_id": "utröst",
+    "friend_id": "jbuchholz",
+    "requester_id": "utröst",
+    "status": "accepted",
+    "accepted_at": "2025-07-20T19:00:55.235327+00:00"
+  },
+  {
+    "id": "fhande|utröst",
+    "user_id": "utröst",
+    "friend_id": "fhande",
+    "requester_id": "fhande",
+    "status": "accepted",
+    "accepted_at": "2024-11-26T19:34:21.350840+00:00"
+  },
+  {
+    "id": "mstaude|smohaupt",
+    "user_id": "smohaupt",
+    "friend_id": "mstaude",
+    "requester_id": "smohaupt",
+    "status": "accepted",
+    "accepted_at": "2025-03-15T12:20:09.397838+00:00"
+  },
+  {
+    "id": "nwesack|smohaupt",
+    "user_id": "smohaupt",
+    "friend_id": "nwesack",
+    "requester_id": "nwesack",
+    "status": "accepted",
+    "accepted_at": "2025-02-26T03:22:07.808287+00:00"
+  },
+  {
+    "id": "jbuchholz|smohaupt",
+    "user_id": "smohaupt",
+    "friend_id": "jbuchholz",
+    "requester_id": "jbuchholz",
+    "status": "accepted",
+    "accepted_at": "2025-02-24T17:04:47.547104+00:00"
+  },
+  {
+    "id": "fhande|smohaupt",
+    "user_id": "smohaupt",
+    "friend_id": "fhande",
+    "requester_id": "smohaupt",
+    "status": "accepted",
+    "accepted_at": "2025-02-13T18:32:08.721346+00:00"
+  },
+  {
+    "id": "akühnert|smohaupt",
+    "user_id": "smohaupt",
+    "friend_id": "akühnert",
+    "requester_id": "akühnert",
+    "status": "accepted",
+    "accepted_at": "2024-12-23T09:33:29.622949+00:00"
+  },
+  {
+    "id": "mstaude|nwesack",
+    "user_id": "mstaude",
+    "friend_id": "nwesack",
+    "requester_id": "nwesack",
+    "status": "accepted",
+    "accepted_at": "2025-03-30T07:17:22.553974+00:00"
+  },
+  {
+    "id": "jbuchholz|mstaude",
+    "user_id": "mstaude",
+    "friend_id": "jbuchholz",
+    "requester_id": "mstaude",
+    "status": "accepted",
+    "accepted_at": "2025-07-21T18:19:44.266874+00:00"
+  },
+  {
+    "id": "fhande|mstaude",
+    "user_id": "mstaude",
+    "friend_id": "fhande",
+    "requester_id": "fhande",
+    "status": "accepted",
+    "accepted_at": "2025-06-05T23:41:59.434731+00:00"
+  },
+  {
+    "id": "ddehmel|mstaude",
+    "user_id": "mstaude",
+    "friend_id": "ddehmel",
+    "requester_id": "ddehmel",
+    "status": "accepted",
+    "accepted_at": "2025-04-04T05:24:34.127378+00:00"
+  },
+  {
+    "id": "ghendriks|mstaude",
+    "user_id": "mstaude",
+    "friend_id": "ghendriks",
+    "requester_id": "mstaude",
+    "status": "accepted",
+    "accepted_at": "2025-01-20T21:03:37.808145+00:00"
+  },
+  {
+    "id": "fhande|nwesack",
+    "user_id": "nwesack",
+    "friend_id": "fhande",
+    "requester_id": "nwesack",
+    "status": "accepted",
+    "accepted_at": "2025-07-21T15:40:03.635910+00:00"
+  },
+  {
+    "id": "akühnert|nwesack",
+    "user_id": "nwesack",
+    "friend_id": "akühnert",
+    "requester_id": "akühnert",
+    "status": "accepted",
+    "accepted_at": "2025-07-28T09:40:19.010887+00:00"
+  },
+  {
+    "id": "ddehmel|nwesack",
+    "user_id": "nwesack",
+    "friend_id": "ddehmel",
+    "requester_id": "ddehmel",
+    "status": "accepted",
+    "accepted_at": "2025-06-20T09:10:28.179454+00:00"
+  },
+  {
+    "id": "aschweitzer|nwesack",
+    "user_id": "nwesack",
+    "friend_id": "aschweitzer",
+    "requester_id": "nwesack",
+    "status": "accepted",
+    "accepted_at": "2025-09-28T10:29:38.051212+00:00"
+  },
+  {
+    "id": "nwesack|pseip",
+    "user_id": "nwesack",
+    "friend_id": "pseip",
+    "requester_id": "nwesack",
+    "status": "accepted",
+    "accepted_at": "2025-04-03T17:00:55.702131+00:00"
+  },
+  {
+    "id": "fhande|jbuchholz",
+    "user_id": "jbuchholz",
+    "friend_id": "fhande",
+    "requester_id": "fhande",
+    "status": "accepted",
+    "accepted_at": "2025-04-03T17:25:29.077499+00:00"
+  },
+  {
+    "id": "akühnert|jbuchholz",
+    "user_id": "jbuchholz",
+    "friend_id": "akühnert",
+    "requester_id": "jbuchholz",
+    "status": "accepted",
+    "accepted_at": "2025-08-22T01:56:07.755478+00:00"
+  },
+  {
+    "id": "ddehmel|jbuchholz",
+    "user_id": "jbuchholz",
+    "friend_id": "ddehmel",
+    "requester_id": "ddehmel",
+    "status": "accepted",
+    "accepted_at": "2025-08-03T00:12:18.806241+00:00"
+  },
+  {
+    "id": "aschweitzer|jbuchholz",
+    "user_id": "jbuchholz",
+    "friend_id": "aschweitzer",
+    "requester_id": "aschweitzer",
+    "status": "accepted",
+    "accepted_at": "2025-02-12T20:32:47.311353+00:00"
+  },
+  {
+    "id": "jbuchholz|sweinhold",
+    "user_id": "jbuchholz",
+    "friend_id": "sweinhold",
+    "requester_id": "sweinhold",
+    "status": "accepted",
+    "accepted_at": "2025-02-24T03:11:45.101549+00:00"
+  },
+  {
+    "id": "hfaust|jbuchholz",
+    "user_id": "jbuchholz",
+    "friend_id": "hfaust",
+    "requester_id": "hfaust",
+    "status": "accepted",
+    "accepted_at": "2025-10-02T16:16:54.880925+00:00"
+  },
+  {
+    "id": "akühnert|fhande",
+    "user_id": "fhande",
+    "friend_id": "akühnert",
+    "requester_id": "akühnert",
+    "status": "accepted",
+    "accepted_at": "2025-01-04T03:25:51.553647+00:00"
+  },
+  {
+    "id": "ddehmel|fhande",
+    "user_id": "fhande",
+    "friend_id": "ddehmel",
+    "requester_id": "fhande",
+    "status": "accepted",
+    "accepted_at": "2025-05-17T16:56:51.791276+00:00"
+  },
+  {
+    "id": "aschweitzer|fhande",
+    "user_id": "fhande",
+    "friend_id": "aschweitzer",
+    "requester_id": "fhande",
+    "status": "accepted",
+    "accepted_at": "2025-06-11T10:18:51.437066+00:00"
+  },
+  {
+    "id": "fhande|sweinhold",
+    "user_id": "fhande",
+    "friend_id": "sweinhold",
+    "requester_id": "sweinhold",
+    "status": "accepted",
+    "accepted_at": "2025-02-19T23:18:46.990813+00:00"
+  },
+  {
+    "id": "fhande|hfaust",
+    "user_id": "fhande",
+    "friend_id": "hfaust",
+    "requester_id": "hfaust",
+    "status": "accepted",
+    "accepted_at": "2025-01-29T03:52:23.544962+00:00"
+  },
+  {
+    "id": "akühnert|ddehmel",
+    "user_id": "akühnert",
+    "friend_id": "ddehmel",
+    "requester_id": "akühnert",
+    "status": "accepted",
+    "accepted_at": "2025-01-21T04:39:46.853365+00:00"
+  },
+  {
+    "id": "akühnert|aschweitzer",
+    "user_id": "akühnert",
+    "friend_id": "aschweitzer",
+    "requester_id": "aschweitzer",
+    "status": "accepted",
+    "accepted_at": "2025-05-15T09:58:18.105415+00:00"
+  },
+  {
+    "id": "akühnert|hfaust",
+    "user_id": "akühnert",
+    "friend_id": "hfaust",
+    "requester_id": "hfaust",
+    "status": "accepted",
+    "accepted_at": "2025-06-10T04:49:20.670253+00:00"
+  },
+  {
+    "id": "aschweitzer|ddehmel",
+    "user_id": "ddehmel",
+    "friend_id": "aschweitzer",
+    "requester_id": "ddehmel",
+    "status": "accepted",
+    "accepted_at": "2024-11-03T22:28:57.558142+00:00"
+  },
+  {
+    "id": "ddehmel|sweinhold",
+    "user_id": "ddehmel",
+    "friend_id": "sweinhold",
+    "requester_id": "sweinhold",
+    "status": "accepted",
+    "accepted_at": "2025-09-07T06:26:47.536544+00:00"
+  },
+  {
+    "id": "ddehmel|hfaust",
+    "user_id": "ddehmel",
+    "friend_id": "hfaust",
+    "requester_id": "hfaust",
+    "status": "accepted",
+    "accepted_at": "2025-01-25T05:25:26.085733+00:00"
+  },
+  {
+    "id": "ddehmel|ghendriks",
+    "user_id": "ddehmel",
+    "friend_id": "ghendriks",
+    "requester_id": "ddehmel",
+    "status": "accepted",
+    "accepted_at": "2025-02-14T00:00:52.440506+00:00"
+  },
+  {
+    "id": "aschweitzer|sweinhold",
+    "user_id": "aschweitzer",
+    "friend_id": "sweinhold",
+    "requester_id": "aschweitzer",
+    "status": "accepted",
+    "accepted_at": "2025-04-03T16:21:52.323437+00:00"
+  },
+  {
+    "id": "aschweitzer|hfaust",
+    "user_id": "aschweitzer",
+    "friend_id": "hfaust",
+    "requester_id": "aschweitzer",
+    "status": "accepted",
+    "accepted_at": "2025-09-07T13:02:45.854217+00:00"
+  },
+  {
+    "id": "aschweitzer|pseip",
+    "user_id": "aschweitzer",
+    "friend_id": "pseip",
+    "requester_id": "pseip",
+    "status": "accepted",
+    "accepted_at": "2024-11-24T21:49:31.298078+00:00"
+  },
+  {
+    "id": "aschweitzer|ghendriks",
+    "user_id": "aschweitzer",
+    "friend_id": "ghendriks",
+    "requester_id": "ghendriks",
+    "status": "accepted",
+    "accepted_at": "2025-04-24T20:44:33.060566+00:00"
+  },
+  {
+    "id": "hfaust|sweinhold",
+    "user_id": "sweinhold",
+    "friend_id": "hfaust",
+    "requester_id": "sweinhold",
+    "status": "accepted",
+    "accepted_at": "2025-04-21T02:11:46.923461+00:00"
+  },
+  {
+    "id": "pseip|sweinhold",
+    "user_id": "sweinhold",
+    "friend_id": "pseip",
+    "requester_id": "pseip",
+    "status": "accepted",
+    "accepted_at": "2024-10-26T08:40:59.377887+00:00"
+  },
+  {
+    "id": "ghendriks|sweinhold",
+    "user_id": "sweinhold",
+    "friend_id": "ghendriks",
+    "requester_id": "sweinhold",
+    "status": "accepted",
+    "accepted_at": "2025-07-10T20:41:24.040890+00:00"
+  },
+  {
+    "id": "ihornich|sweinhold",
+    "user_id": "sweinhold",
+    "friend_id": "ihornich",
+    "requester_id": "ihornich",
+    "status": "accepted",
+    "accepted_at": "2025-02-20T00:15:11.799359+00:00"
+  },
+  {
+    "id": "hfaust|hkoch",
+    "user_id": "hfaust",
+    "friend_id": "hkoch",
+    "requester_id": "hfaust",
+    "status": "accepted",
+    "accepted_at": "2025-07-02T00:04:26.776129+00:00"
+  },
+  {
+    "id": "ghendriks|pseip",
+    "user_id": "pseip",
+    "friend_id": "ghendriks",
+    "requester_id": "ghendriks",
+    "status": "accepted",
+    "accepted_at": "2025-01-21T11:06:02.252040+00:00"
+  },
+  {
+    "id": "eweitzel|pseip",
+    "user_id": "pseip",
+    "friend_id": "eweitzel",
+    "requester_id": "eweitzel",
+    "status": "accepted",
+    "accepted_at": "2025-06-05T00:15:59.317173+00:00"
+  },
+  {
+    "id": "hkoch|pseip",
+    "user_id": "pseip",
+    "friend_id": "hkoch",
+    "requester_id": "hkoch",
+    "status": "accepted",
+    "accepted_at": "2025-05-18T12:36:09.203038+00:00"
+  },
+  {
+    "id": "ghendriks|ihornich",
+    "user_id": "ghendriks",
+    "friend_id": "ihornich",
+    "requester_id": "ihornich",
+    "status": "accepted",
+    "accepted_at": "2024-11-10T13:30:52.820567+00:00"
+  },
+  {
+    "id": "eweitzel|ghendriks",
+    "user_id": "ghendriks",
+    "friend_id": "eweitzel",
+    "requester_id": "ghendriks",
+    "status": "accepted",
+    "accepted_at": "2025-04-06T09:41:26.174361+00:00"
+  },
+  {
+    "id": "ghendriks|hkoch",
+    "user_id": "ghendriks",
+    "friend_id": "hkoch",
+    "requester_id": "ghendriks",
+    "status": "accepted",
+    "accepted_at": "2025-02-28T11:31:20.751550+00:00"
+  },
+  {
+    "id": "eweitzel|ihornich",
+    "user_id": "ihornich",
+    "friend_id": "eweitzel",
+    "requester_id": "eweitzel",
+    "status": "accepted",
+    "accepted_at": "2025-01-30T07:29:07.721864+00:00"
+  },
+  {
+    "id": "hkoch|ihornich",
+    "user_id": "ihornich",
+    "friend_id": "hkoch",
+    "requester_id": "hkoch",
+    "status": "accepted",
+    "accepted_at": "2025-01-19T15:53:19.266991+00:00"
+  },
+  {
+    "id": "eweitzel|hkoch",
+    "user_id": "eweitzel",
+    "friend_id": "hkoch",
+    "requester_id": "eweitzel",
+    "status": "accepted",
+    "accepted_at": "2025-03-08T22:43:33.655531+00:00"
+  }
+]
