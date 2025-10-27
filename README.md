@@ -9,6 +9,9 @@ EventLoupe is a full‑stack app that helps users browse upcoming events, see wh
 - Docker Compose with Traefik routing the frontend, API, and uploads behind a single port.
 
 
+demo: https://viscon25.davidfarah.com/
+
+
 ## Features
 
 - Browse upcoming events with time, location, poster, and category metadata.
